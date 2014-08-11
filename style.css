@@ -1,204 +1,85 @@
-html, body {
-
-    /* The universe takes up all available space */
-
-    width: 100%;
-
-    height: 100%;
-
-    
-    /* The universe is black */
-
-    background-color: black;
-
+body {
+	background-color: #fff;
+	position: relative;
+	height: 100%
+	color: #333333
+	font: 15px helvectica,arial,freesans,clean,sans-serif;
+	line-height: 1.4;
+	-webkit-font-smoothing: antialiased;
 }
 
-
-#sun {
-
-    position: absolute;
-
-    /* Positions the top-left corner of the image to be *
-
-    /* in the middle of the box */
-
-    top: 50%;
-
-    left: 50%;
-
-    
-/* Play with these numbers to see what it does */
-
-    height: 200px;
-
-    width: 200px;
-
-    margin-top: -100px;
- 
-   margin-left: -100px;
-
-    
-border-color: yellow;
-
-    border-width: 1px;
-
-    border-style: solid;
-
-    border-radius: 50%;
-
-    box-shadow: 0 0 128px pink;
-
+.content{
+	position relative;
+	margin: 0 0 -140px;
+	min-height: 100%;
 }
 
-
-#earth {
-
-    position: absolute;
-
-    top: 0;
-
-    left: 50%;
-
-    height: 50px;
-
-    width: 50px;
-
-    margin-left: -25px;
-
-    margin-top: -25px;
-
-    
-border-color: cyan;
-
-    border-width: 1px;
-
-    border-style: solid;
-
-    border-radius: 50%;
-
-    box-shadow: 0 0 64px white;
-
-    /* Style your earth */
-
+#header{
+	position: relative;
+	margin: auto;
+	height: 240px;
+	background-color: #f5f5f5;
+	border-bottom: 1px solid #dddddd;
+	box-shadow 0 1px 0 #505050;
+	overflow: hidden;
+	clear:both;
 }
 
-
-#earth-orbit {
-
-    /* For Section #2 */
-
-    position: absolute;
-
-    top: 50%;
-
-    left: 50%;
-
-    width: 500px;
-
-    height: 500px;
-
-    margin-top: -250px;
-
-    margin-left: -250px;
-
-    border-style: dotted;
-
-    border-color: white;
-
-    border-radius:50%;
-
-    
--webkit-animation: spin-right 10s linear infinite;
-
-     -moz-animation: spin-right 10s linear infinite;
-
-      -ms-animation: spin-right 10s linear infinite;
-
-       -o-animation: spin-right 10s linear infinite;
-
-          animation: spin-right 10s linear infinite;
-
+.width-wrapper{
+	width: 1024px;
+	margin: auto;
 }
 
-
-#floating-object-orbit {
-
-    position: absolute;
-
-    top: 50%;
-
-    left: 50%;
-
-    width: 800px;
-
-    height: 800px;
-
-    margin-top: -500px;
-
-    margin-left: -500px;
-
-
-    border-radius: 50%;
-
-    -webkit-animation: spin-right 10s linear infinite;
-
-     -moz-animation: spin-right 10s linear infinite;
-
-      -ms-animation: spin-right 10s linear infinite;
-
-       -o-animation: spin-right 10s linear infinite;
-
-          animation: spin-right 10s linear infinite;
-
+body #topnav-hub{
+	position: relative;
+	margin: auto;
+	height: 25px;
+	background-color:#d3d3d3;
+	word-spacing 16px;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-top: 5px;
 }
 
-
-#self-rotating {
-
-
-    -webkit-animation: spin-right 6s linear infinite;
-
-     -moz-animation: spin-right 6s linear infinite;
-
-      -ms-animation: spin-right 6s linear infinite;
-
-       -o-animation: spin-right 6s linear infinite;
-
-          animation: spin-right 6s linear infinite;
-
-
+.topnav{
+	color: #555555;
+	text-decoration: none;
 }
 
-
-#floating-object {
-
-    top: 0;
-
-    font-size: 100px;
-
-    font-family: "Segoe UI";
-    color: white;
-
-    text-align: center;
-
+#content-holder{
+	position: relative;
+	padding-top 30px;
 }
 
-
-@-webkit-keyframes spin-right {
-
-  100% {
-
-    -webkit-transform: rotate(360deg);
-
-       -moz-transform: rotate(360deg);
-
-        -ms-transform: rotate(360deg);
-
-         -o-transform: rotate(360deg);
-
-            transform: rotate(360deg);
-
-  }
-
+#content-space{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
 }
-.footer {width:100% ;margin:auto;color:#909090;font-size:11px;text-align:center;}
+
+.clear{
+	height: 140px;
+	clear: both;
+}
+
+.footer{
+	clear: both;
+	position: relative;
+	height: 99px;
+	margin-top: 40px;
+	border-top: 1px solid #dddddd;
+	color: #666666;
+	font-size: 13px;
+	overflow: hidden;
+	background: #f5f5f5;
+}
+
+.inner-footer{
+	position: relative;
+	width: 1024px;
+	margin: auto;
+	padding: 14px 0 0;
+	line-height: 80%;
+}
