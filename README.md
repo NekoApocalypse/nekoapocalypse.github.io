@@ -9,3 +9,6 @@ nekoapocalypse.github.io
 <br/>
 http://nekoapocalypse.github.io<br/>
 请享用<br/>
+
+__此页面已废弃__
+博客新地址： https://danbooru-labs.moe
