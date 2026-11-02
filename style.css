@@ -133,6 +133,12 @@ a:hover {
   border-color: var(--accent);
 }
 
+.pill-lg {
+  padding: 10px 20px;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
 .intro-copy {
   width: 100%;
 }
@@ -467,30 +473,29 @@ code {
   color: #79c0ff;
 }
 
-/* Contact Surface Card — Uses the Exact Same Surface Container as Above */
-.contact-surface {
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-  padding: 20px 24px;
+/* Contact Me Section — Full-width open editorial flow (matches Intro rhythm, no inner card) */
+.contact-block {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
 }
 
 .contact-copy {
-  flex: 1;
+  width: 100%;
 }
 
 .contact-en {
-  margin: 0 0 8px 0;
-  font-size: 0.95rem;
-  line-height: 1.58;
+  margin: 0 0 12px 0;
+  font-size: 1.08rem;
+  line-height: 1.7;
   color: var(--text);
 }
 
 .contact-cn {
   margin: 0;
-  font-size: 0.9rem;
-  line-height: 1.65;
+  font-size: 0.98rem;
+  line-height: 1.78;
   letter-spacing: 0.015em;
   color: var(--text-cn);
   padding-left: 14px;
@@ -500,16 +505,8 @@ code {
 .contact-actions {
   display: flex;
   align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
+  gap: var(--sp-3);
   flex-wrap: wrap;
-}
-
-@media (max-width: 900px) {
-  .contact-surface {
-    flex-direction: column;
-    align-items: flex-start;
-  }
 }
 
 @media (max-width: 820px) {
