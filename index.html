@@ -1,58 +1,198 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" href="style.css"/>
-	</head>
-	<body class="page">
-		<div class="content">
-			<div id="header">
-				<div class="width-wrapper">
-					<h1>NekoApocalypse's Blog</h1>
-					<p>从今天起 让这个地方看上去像是个小博客。。。</p>
-				</div>
-			</div>
-			<div id="topnav-hub">
-				<div class="width-wrapper">
-					<a class="topnav" href="404.html">About me (施工中。。)</a>
-					<span>||</span>
-					<a class="topnav" href="404.html">Articles (施工中。。)</a>
-					<span>||</span>
-					<a class="topnav" href="404.html">Gallery (施工中。。)</a>
-					<div style="float:right;word-spacing:0;">
-						<a class="topnav">...这是非常平凡的导航栏</a>
-					</div>
-				</div>
-			</div>
-			<div id="content-holder">
-				<div class="width-wrapper">
-					<div id="content-space">
-						<p>空空荡荡</p>
-						<p>...真是废柴...</p>
-						<p>要看就去看
-							<a href="rotate.html">这个</a>
-							吧。。。
-						</p>
-					</div>
-					<div class="clear"></div>
-					<p style="float:right">...这是啥也没有的内容版</p>
-				</div>
-			</div>
-			<div class="footer">
-				<div class="inner-footer">
-					<p>2014.8.11 布局达成</p>
-					<p>_(:3J L)_</p>
-					<p style="float:right">...这是啥也没有的脚栏(泥垢)</p>
-				</div>
-			</div>
-		</div>
-	</body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NekoApocalypse — System Developer &amp; Quant Researcher</title>
+  <meta name="description" content="NekoApocalypse (@NekoStranding) — System Developer & Quant Researcher. Creator of Vibe99 (multi-agent terminal workspace) and Owlet (fast project reader & editor for agent work).">
+  <meta name="keywords" content="NekoApocalypse, NekoStranding, Vibe99, Owlet, agentic coding, multi-agent terminal, fast project editor, system developer, quant researcher">
+  <link rel="canonical" href="https://nekoapocalypse.github.io/">
+  <meta property="og:title" content="NekoApocalypse — System Developer &amp; Quant Researcher">
+  <meta property="og:description" content="Building fast, native tools for agentic coding workflows: Vibe99 and Owlet.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nekoapocalypse.github.io/">
+  <meta property="og:image" content="https://nekoapocalypse.github.io/assets/owlet-workspace.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@NekoStranding">
+  <link rel="icon" type="image/jpeg" href="assets/avatar.jpg">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "name": "NekoApocalypse",
+        "alternateName": "NekoStranding",
+        "jobTitle": "System Developer & Quant Researcher",
+        "url": "https://nekoapocalypse.github.io/",
+        "image": "https://nekoapocalypse.github.io/assets/avatar.jpg",
+        "sameAs": [
+          "https://github.com/NekoApocalypse",
+          "https://x.com/NekoStranding"
+        ]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "Vibe99",
+        "operatingSystem": "Windows, Linux, macOS",
+        "applicationCategory": "DeveloperApplication",
+        "description": "Desktop terminal workspace built for one focused pane and peripheral vision on the rest of your coding agents.",
+        "url": "https://nekoapocalypse.github.io/Vibe99/",
+        "downloadUrl": "https://github.com/NekoApocalypse/Vibe99/releases",
+        "codeRepository": "https://github.com/NekoApocalypse/Vibe99"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "Owlet",
+        "operatingSystem": "Windows",
+        "applicationCategory": "DeveloperApplication",
+        "description": "Fast project reader and editor built for 90% reading, 10% writing—locally or over SSH.",
+        "url": "https://nekoapocalypse.github.io/owlet/",
+        "codeRepository": "https://github.com/NekoApocalypse/owlet"
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <main class="shell">
+    <header class="identity">
+      <div class="identity-top">
+        <div class="identity-profile">
+          <img class="avatar" src="assets/avatar.jpg" alt="NekoApocalypse" width="72" height="72">
+          <div class="identity-titles">
+            <h1>NekoApocalypse</h1>
+            <p class="role">System Developer &amp; Quant Researcher</p>
+          </div>
+        </div>
+        <nav class="social-nav" aria-label="Social profiles">
+          <a class="pill pill-primary" href="https://x.com/NekoStranding" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <span>@NekoStranding</span>
+          </a>
+          <a class="pill" href="https://github.com/NekoApocalypse" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.648.5.5 5.648.5 12c0 5.088 3.292 9.395 7.868 10.915.575.108.785-.25.785-.556 0-.274-.01-1-.015-1.962-3.2.695-3.875-1.542-3.875-1.542-.523-1.33-1.278-1.684-1.278-1.684-1.044-.714.08-.699.08-.699 1.155.081 1.763 1.186 1.763 1.186 1.026 1.759 2.692 1.25 3.348.956.104-.743.402-1.25.73-1.538-2.555-.29-5.242-1.277-5.242-5.686 0-1.256.45-2.283 1.185-3.088-.119-.29-.514-1.462.112-3.047 0 0 .966-.31 3.167 1.18a11.02 11.02 0 0 1 2.884-.388c.978.005 1.964.132 2.884.388 2.2-1.49 3.165-1.18 3.165-1.18.628 1.585.233 2.757.114 3.047.737.805 1.184 1.832 1.184 3.088 0 4.42-2.692 5.392-5.255 5.677.413.356.78 1.057.78 2.13 0 1.538-.014 2.778-.014 3.155 0 .309.207.669.79.555C20.213 21.39 23.5 17.085 23.5 12 23.5 5.648 18.352.5 12 .5Z"/></svg>
+            <span>NekoApocalypse</span>
+          </a>
+        </nav>
+      </div>
+
+      <div class="intro-copy">
+        <p class="manifesto">
+          I research quantitative strategies and build low-latency systems.<br>
+          Now that coding agents write <strong>90% of the code</strong>, the real bottleneck is <strong>human attention</strong>—commanding parallel agent sessions and inspecting their output. I build fast, native desktop tools for that loop.
+        </p>
+        <p class="manifesto-cn">
+          我的专长是量化研究与底层系统开发。<br>
+          当 Coding Agent 接管了 <strong>90% 的手写代码</strong>，人的瓶颈就变成了<strong>「注意力」</strong>——同时盯住几个并行干活的 Agent，以及极速审阅它们产出的方案与代码。下面这两个桌面工具，就是我为日常 Agent 工作流造的趁手兵器。
+        </p>
+      </div>
+    </header>
+
+    <section class="projects-section" aria-labelledby="projects-heading">
+      <div class="section-header">
+        <h2 id="projects-heading">Featured Projects</h2>
+        <span class="section-meta">Command in Vibe99 · Review in Owlet</span>
+      </div>
+
+      <div class="project-grid">
+        <!-- Vibe99 Card -->
+        <article class="project-card">
+          <div class="card-head">
+            <img class="app-icon" src="assets/vibe99-icon.png" alt="Vibe99 icon" width="42" height="42">
+            <div class="card-title-group">
+              <div class="card-title-row">
+                <h3><a href="https://nekoapocalypse.github.io/Vibe99/">Vibe99</a></h3>
+                <span class="badge">Tauri 2 · Rust · ~5 MiB</span>
+              </div>
+              <p class="card-tagline">One focused pane, peripheral vision on the rest</p>
+              <p class="card-tagline-cn">一主聚焦、余光巡视的多 Agent 终端工作台</p>
+            </div>
+          </div>
+
+          <a class="preview-frame" href="https://nekoapocalypse.github.io/Vibe99/" aria-label="Open Vibe99 project page">
+            <img src="assets/vibe99-demo.gif" alt="Vibe99 stacked terminal workspace demo">
+          </a>
+
+          <p class="card-summary">
+            Tabs hide background agents until you forget they finished; split grids shrink every pane until none are readable. Vibe99 keeps your active terminal wide in the foreground and stacks the rest in peripheral vision.
+          </p>
+
+          <ul class="card-highlights">
+            <li><strong>Stacked layout &amp; Okabe-Ito palette</strong> — lock onto any agent visually at a glance.</li>
+            <li><strong>Full keyboard control</strong> — <code>Ctrl+Tab</code>, spatial arrows, fuzzy palette, and <code>Ctrl+B</code> nav mode.</li>
+            <li><strong>Tunable UI &amp; power features</strong> — custom width/opacity/fonts, breathing alerts, Shell Profiles, and WSL.</li>
+          </ul>
+
+          <div class="card-actions">
+            <a class="btn btn-solid" href="https://github.com/NekoApocalypse/Vibe99/releases">Releases (v0.7.3)</a>
+            <a class="btn btn-outline" href="https://github.com/NekoApocalypse/Vibe99">GitHub</a>
+            <a class="btn btn-ghost" href="https://nekoapocalypse.github.io/Vibe99/">Project Page →</a>
+          </div>
+        </article>
+
+        <!-- Owlet Card -->
+        <article class="project-card">
+          <div class="card-head">
+            <img class="app-icon" src="assets/owlet-icon.png" alt="Owlet icon" width="42" height="42">
+            <div class="card-title-group">
+              <div class="card-title-row">
+                <h3><a href="https://nekoapocalypse.github.io/owlet/">Owlet</a></h3>
+                <span class="badge">Local &amp; SSH · 4.55s Cold Start</span>
+              </div>
+              <p class="card-tagline">Built for 90% reading, 10% writing</p>
+              <p class="card-tagline-cn">「9 分看、1 分写」的极速项目编辑器</p>
+            </div>
+          </div>
+
+          <a class="preview-frame" href="https://nekoapocalypse.github.io/owlet/" aria-label="Open Owlet project page">
+            <img src="assets/owlet-workspace.png" alt="Owlet project editor workspace screenshot">
+          </a>
+
+          <p class="card-summary">
+            VS Code is built for "90% writing, 10% reading", making remote SSH connections and switching projects feel slow and heavy. Owlet is built for reading agent plans, specs, and code—feeling 10x faster in daily use.
+          </p>
+
+          <ul class="card-highlights">
+            <li><strong>Under 10s cold start</strong> — opens a project in 4.55s over throttled SSH; switch folders via <code>owlet .</code>.</li>
+            <li><strong>Zero-bloat SSH remote</strong> — no persistent remote server; reuses your existing SSH setup.</li>
+            <li><strong>Rich Markdown &amp; Peacock colors</strong> — native KaTeX math, Mermaid diagrams, Vim mode, and split panes.</li>
+          </ul>
+
+          <div class="card-actions">
+            <a class="btn btn-solid" href="https://github.com/NekoApocalypse/owlet">GitHub</a>
+            <a class="btn btn-outline" href="https://github.com/NekoApocalypse/owlet/releases">Releases</a>
+            <a class="btn btn-ghost" href="https://nekoapocalypse.github.io/owlet/">Project Page →</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="contact-section" aria-labelledby="contact-heading">
+      <div class="contact-card">
+        <div class="contact-copy">
+          <h2 id="contact-heading">Contact Me</h2>
+          <p class="contact-en">
+            Into agentic coding, quant research, or low-latency systems? Tried Vibe99 or Owlet and want to share feedback or drop a hot take?<br>
+            Come say hi on X.
+          </p>
+          <p class="contact-cn">
+            如果你也在折腾 Coding Agent、量化研究或者底层系统，或者用了 Vibe99 / Owlet 想聊聊体验、提点暴论，随时来 X 找我打个招呼。
+          </p>
+        </div>
+        <div class="contact-actions">
+          <a class="pill pill-primary pill-lg" href="https://x.com/NekoStranding" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <span>Say hi on X (@NekoStranding)</span>
+          </a>
+          <a class="pill pill-lg" href="https://github.com/NekoApocalypse" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.648.5.5 5.648.5 12c0 5.088 3.292 9.395 7.868 10.915.575.108.785-.25.785-.556 0-.274-.01-1-.015-1.962-3.2.695-3.875-1.542-3.875-1.542-.523-1.33-1.278-1.684-1.278-1.684-1.044-.714.08-.699.08-.699 1.155.081 1.763 1.186 1.763 1.186 1.026 1.759 2.692 1.25 3.348.956.104-.743.402-1.25.73-1.538-2.555-.29-5.242-1.277-5.242-5.686 0-1.256.45-2.283 1.185-3.088-.119-.29-.514-1.462.112-3.047 0 0 .966-.31 3.167 1.18a11.02 11.02 0 0 1 2.884-.388c.978.005 1.964.132 2.884.388 2.2-1.49 3.165-1.18 3.165-1.18.628 1.585.233 2.757.114 3.047.737.805 1.184 1.832 1.184 3.088 0 4.42-2.692 5.392-5.255 5.677.413.356.78 1.057.78 2.13 0 1.538-.014 2.778-.014 3.155 0 .309.207.669.79.555C20.213 21.39 23.5 17.085 23.5 12 23.5 5.648 18.352.5 12 .5Z"/></svg>
+            <span>GitHub (@NekoApocalypse)</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
 </html>
-
-
-
-
-
-
-
-
-

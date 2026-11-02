@@ -1,14 +1,8 @@
-nekoapocalypse.github.io
-========================
+# nekoapocalypse.github.io
 
-这是YY的蛋疼小博客。。。<br/>
-因为蛋疼 为了蛋疼 服务蛋疼的小博客。。。（喂<br/>
-总而言之是个实验html/css/jsp 代码的地方啦<br/>
-<br/>
-~~怎么看都像是在自娱自乐.~~<br/>
-<br/>
-http://nekoapocalypse.github.io<br/>
-请享用<br/>
+Personal landing page for **NekoApocalypse** ([@NekoStranding](https://x.com/NekoStranding)) — System Developer & Quant Researcher.
 
-__此页面已废弃__
-博客新地址： https://danbooru-labs.moe
+- **Live site**: https://nekoapocalypse.github.io/
+- **Featured projects**:
+  - [Vibe99](https://nekoapocalypse.github.io/Vibe99/) ([GitHub](https://github.com/NekoApocalypse/Vibe99))
+  - [Owlet](https://nekoapocalypse.github.io/owlet/) ([GitHub](https://github.com/NekoApocalypse/owlet))
