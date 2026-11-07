@@ -215,38 +215,40 @@
         <span class="section-meta"><a href="https://x.com/NekoStranding" target="_blank" rel="noopener">@NekoStranding · Hot Takes &amp; Build Logs ↗</a></span>
       </div>
 
-      <div class="card-grid">
+      <div class="card-grid" id="x-recent-grid">
+        <!-- BEGIN_X_RECENT_CARDS -->
         <!-- Latest X Post Card -->
-        <article class="surface-card">
+        <article class="surface-card" id="x-card-latest">
           <div class="card-head">
             <img class="app-icon app-icon-round" src="assets/avatar.jpg" alt="@NekoStranding" width="42" height="42">
             <div class="card-title-group">
               <div class="card-title-row">
-                <h3><a href="https://x.com/NekoStranding/status/2117097363655516207" target="_blank" rel="noopener">毒猫猫 | 量化摸鱼师</a></h3>
-                <span class="badge">Latest · Nov 2, 2026</span>
+                <h3><a href="https://x.com/NekoStranding/status/2118933007688188241" target="_blank" rel="noopener">毒猫猫 | 量化摸鱼师</a></h3>
+                <span class="badge">Latest · Nov 7, 2026</span>
               </div>
               <p class="card-tagline">@NekoStranding on X</p>
             </div>
           </div>
 
-          <a class="preview-frame preview-frame-x" href="https://x.com/NekoStranding/status/2117097363655516207" target="_blank" rel="noopener" aria-label="View post on X">
-            <img src="assets/x-latest-media.jpg" alt="Antigravity context window bug analysis">
+          <a class="preview-frame preview-frame-x" href="https://x.com/NekoStranding/status/2118933007688188241" target="_blank" rel="noopener" aria-label="View post on X">
+            <img src="https://pbs.twimg.com/media/HWf2VSZbAAArVLD.jpg?name=medium" alt="Post media on X" loading="lazy">
           </a>
-
           <div class="tweet-body">
-            <p>给大家解释一下 Antigravity 的雷霆大 bug：</p>
-            <p>模型支持 1M 上下文，而 agy 的多个错误导致上下文被锁死在 256K，导致提前压缩、疑似被截断，导致 Gemini Argon 突然开始瞎猜。</p>
-            <p>这个恶心的 bug 被发现已经两周了，而开发团队还在装死。有兴趣的可以移步 GitHub issue。</p>
+            <p>这就是 multi-agent 的实力吗！</p>
+            <a class="tweet-quote" href="https://x.com/NekoStranding/status/2118871118618759374" target="_blank" rel="noopener">
+              <div class="quote-head"><span class="quote-author">毒猫猫 | 量化摸鱼师</span><span class="quote-handle">@NekoStranding</span></div>
+              <p class="quote-text">这两天搞了个雷霆大 Agent，玩了个「工作自己转，关键节点来找人」<br><br>核心思路是用 DeepSeek 做前台调度，主打一个随叫随到，帮我管任务、传话、发继续；后台用 Gemini Argon 做意图理解，设计和深度。前台可以随时开 worker 替它思考。最后还实现了个 dream<br><br>天才大肥鱼，找一车哈基米来弄你！</p>
+            </a>
           </div>
 
           <div class="card-actions">
-            <a class="btn btn-outline" href="https://x.com/NekoStranding/status/2117097363655516207" target="_blank" rel="noopener">Read Thread on X</a>
+            <a class="btn btn-outline" href="https://x.com/NekoStranding/status/2118933007688188241" target="_blank" rel="noopener">View Post on X</a>
             <a class="btn btn-ghost" href="https://x.com/NekoStranding" target="_blank" rel="noopener">Follow @NekoStranding →</a>
           </div>
         </article>
 
         <!-- Pinned X Post Card -->
-        <article class="surface-card">
+        <article class="surface-card" id="x-card-pinned">
           <div class="card-head">
             <img class="app-icon app-icon-round" src="assets/avatar.jpg" alt="@NekoStranding" width="42" height="42">
             <div class="card-title-group">
@@ -259,11 +261,11 @@
           </div>
 
           <a class="preview-frame preview-frame-x" href="https://x.com/NekoStranding/status/2042286373609365593" target="_blank" rel="noopener" aria-label="Watch Vibe99 preview video on X">
-            <img src="assets/x-pinned-thumb.jpg" alt="Vibe99 preview demo on X">
+            <img src="assets/x-pinned-thumb.jpg" alt="Vibe99 preview demo on X" loading="lazy">
           </a>
 
           <div class="tweet-body">
-            <p>做了个玩多 Agent 用的命令行终端，叫 <strong>Vibe99</strong>。</p>
+            <p>做了个玩多 Agent 用的命令行终端，叫 Vibe99</p>
             <p>现在是 preview 版。交互还挺好玩的，已经感觉有点酷了！</p>
           </div>
 
@@ -272,8 +274,354 @@
             <a class="btn btn-ghost" href="https://github.com/NekoApocalypse/Vibe99/releases">Download Vibe99 →</a>
           </div>
         </article>
+        <!-- END_X_RECENT_CARDS -->
       </div>
     </section>
   </main>
+
+  <script>
+  (function () {
+    const HANDLE = 'NekoStranding';
+    const DEFAULT_PINNED_ID = '2042286373609365593';
+    const CACHE_KEY = 'neko_x_recent_v1';
+    const CACHE_TTL_MS = 15 * 60 * 1000;
+
+    function esc(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function cleanText(text) {
+      return String(text || '').replace(/\s*https:\/\/t\.co\/[A-Za-z0-9]+\s*$/g, '').trim();
+    }
+
+    function formatDateLabel(ts, createdAt) {
+      const d = ts ? new Date(ts * 1000) : (createdAt ? new Date(createdAt) : null);
+      if (!d || isNaN(d.getTime())) return 'Recent';
+      return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+    }
+
+    function extractMedia(mediaObj) {
+      const items = mediaObj && mediaObj.all;
+      if (!items || !items.length) return null;
+      const first = items[0];
+      const type = (first.type === 'video' || first.type === 'gif') ? 'video' : 'photo';
+      if (type === 'video') {
+        let thumb = first.thumbnail_url || '';
+        if (thumb.indexOf('pbs.twimg.com') !== -1 && thumb.indexOf('?') === -1) {
+          thumb += '?format=jpg&name=medium';
+        }
+        return { type: 'video', thumb_url: thumb };
+      }
+      let url = first.url || '';
+      if (url.indexOf('pbs.twimg.com/media/') !== -1) {
+        url = url.split('?')[0] + '?name=medium';
+      }
+      return { type: 'photo', thumb_url: url };
+    }
+
+    function normalizeFxTweet(rawTweet, fallbackId) {
+      const t = rawTweet || {};
+      const author = t.author || {};
+      let quote = null;
+      if (t.quote) {
+        const qa = t.quote.author || {};
+        const qHandle = qa.screen_name || '';
+        const qId = t.quote.id || '';
+        quote = {
+          id: qId,
+          url: t.quote.url || (qHandle && qId ? 'https://x.com/' + qHandle + '/status/' + qId : ''),
+          author_name: qa.name || qHandle,
+          author_handle: qHandle,
+          text: cleanText(t.quote.text || ''),
+          media: extractMedia(t.quote.media)
+        };
+      }
+      return {
+        id: String(t.id || fallbackId),
+        url: t.url || ('https://x.com/' + HANDLE + '/status/' + fallbackId),
+        author_name: author.name || '毒猫猫 | 量化摸鱼师',
+        author_handle: author.screen_name || HANDLE,
+        date_label: formatDateLabel(t.created_timestamp, t.created_at),
+        text: cleanText(t.text || ''),
+        media: extractMedia(t.media),
+        quote: quote
+      };
+    }
+
+    function renderParagraphs(text) {
+      const blocks = String(text || '').split(/\n\s*\n/).map(s => s.trim()).filter(Boolean);
+      return blocks.map(block => {
+        const html = esc(block)
+          .replace(/\n/g, '<br>')
+          .replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+        return '<p>' + html + '</p>';
+      }).join('');
+    }
+
+    function renderQuote(quote, showMedia) {
+      if (!quote) return '';
+      const mediaHtml = (showMedia !== false && quote.media && quote.media.thumb_url)
+        ? '<div class="quote-media"><img src="' + esc(quote.media.thumb_url) + '" alt="Quoted media" loading="lazy"></div>'
+        : '';
+      const textHtml = quote.text
+        ? '<p class="quote-text">' + esc(quote.text).replace(/\n/g, '<br>') + '</p>'
+        : '';
+      return (
+        '<a class="tweet-quote" href="' + esc(quote.url || ('https://x.com/' + HANDLE)) + '" target="_blank" rel="noopener">' +
+          '<div class="quote-head">' +
+            '<span class="quote-author">' + esc(quote.author_name) + '</span>' +
+            '<span class="quote-handle">@' + esc(quote.author_handle) + '</span>' +
+          '</div>' +
+          textHtml +
+          mediaHtml +
+        '</a>'
+      );
+    }
+
+    function renderLatestCardHtml(recent) {
+      if (!recent || !recent.length) return null;
+      const latest = recent[0];
+      const url = esc(latest.url);
+      const hasOwnMedia = Boolean(latest.media && latest.media.thumb_url);
+      const mediaHtml = hasOwnMedia
+        ? '<a class="preview-frame preview-frame-x" href="' + url + '" target="_blank" rel="noopener" aria-label="View post on X">' +
+            '<img src="' + esc(latest.media.thumb_url) + '" alt="Post media on X" loading="lazy">' +
+          '</a>'
+        : '';
+      const hasVisual = Boolean(hasOwnMedia || (latest.quote && latest.quote.media));
+      const quotedId = latest.quote && latest.quote.id;
+      const prev = recent.slice(1).find(item => item && item.id !== quotedId);
+      let secondaryHtml = '';
+      if (!hasVisual && prev) {
+        secondaryHtml =
+          '<div class="tweet-secondary">' +
+            '<div class="tweet-secondary-meta">' +
+              '<a href="' + esc(prev.url) + '" target="_blank" rel="noopener">Earlier · ' + esc(prev.date_label) + ' ↗</a>' +
+            '</div>' +
+            renderParagraphs(prev.text) +
+            renderQuote(prev.quote, true) +
+          '</div>';
+      }
+      return (
+        '<div class="card-head">' +
+          '<img class="app-icon app-icon-round" src="assets/avatar.jpg" alt="@NekoStranding" width="42" height="42">' +
+          '<div class="card-title-group">' +
+            '<div class="card-title-row">' +
+              '<h3><a href="' + url + '" target="_blank" rel="noopener">' + esc(latest.author_name) + '</a></h3>' +
+              '<span class="badge">Latest · ' + esc(latest.date_label) + '</span>' +
+            '</div>' +
+            '<p class="card-tagline">@NekoStranding on X</p>' +
+          '</div>' +
+        '</div>' +
+        mediaHtml +
+        '<div class="tweet-body">' +
+          renderParagraphs(latest.text) +
+          renderQuote(latest.quote, !hasOwnMedia) +
+          secondaryHtml +
+        '</div>' +
+        '<div class="card-actions">' +
+          '<a class="btn btn-outline" href="' + url + '" target="_blank" rel="noopener">View Post on X</a>' +
+          '<a class="btn btn-ghost" href="https://x.com/NekoStranding" target="_blank" rel="noopener">Follow @NekoStranding →</a>' +
+        '</div>'
+      );
+    }
+
+    function renderPinnedCardHtml(pinned) {
+      if (!pinned) return null;
+      const url = esc(pinned.url);
+      const isDefaultVibe = (pinned.id === DEFAULT_PINNED_ID);
+      const thumbSrc = isDefaultVibe
+        ? 'assets/x-pinned-thumb.jpg'
+        : ((pinned.media && pinned.media.thumb_url) ? esc(pinned.media.thumb_url) : '');
+      const badgeLabel = isDefaultVibe ? 'Pinned · Vibe99 Preview' : ('Pinned · ' + esc(pinned.date_label));
+      const mediaHtml = thumbSrc
+        ? '<a class="preview-frame preview-frame-x" href="' + url + '" target="_blank" rel="noopener" aria-label="View pinned post on X">' +
+            '<img src="' + thumbSrc + '" alt="Pinned post media on X" loading="lazy">' +
+          '</a>'
+        : '';
+      return (
+        '<div class="card-head">' +
+          '<img class="app-icon app-icon-round" src="assets/avatar.jpg" alt="@NekoStranding" width="42" height="42">' +
+          '<div class="card-title-group">' +
+            '<div class="card-title-row">' +
+              '<h3><a href="' + url + '" target="_blank" rel="noopener">' + esc(pinned.author_name) + '</a></h3>' +
+              '<span class="badge">' + badgeLabel + '</span>' +
+            '</div>' +
+            '<p class="card-tagline">@NekoStranding on X</p>' +
+          '</div>' +
+        '</div>' +
+        mediaHtml +
+        '<div class="tweet-body">' +
+          renderParagraphs(pinned.text) +
+          renderQuote(pinned.quote, !thumbSrc) +
+        '</div>' +
+        '<div class="card-actions">' +
+          '<a class="btn btn-outline" href="' + url + '" target="_blank" rel="noopener">' + (isDefaultVibe ? 'Watch Video on X' : 'View Post on X') + '</a>' +
+          '<a class="btn btn-ghost" href="https://github.com/NekoApocalypse/Vibe99/releases">Download Vibe99 →</a>' +
+        '</div>'
+      );
+    }
+
+    function getCurrentDomLatestId() {
+      const link = document.querySelector('#x-card-latest h3 a');
+      if (!link) return '0';
+      const m = (link.getAttribute('href') || '').match(/\/status\/(\d+)/);
+      return m ? m[1] : '0';
+    }
+
+    function getLatestId(data) {
+      return (data && data.recent && data.recent[0] && data.recent[0].id) ? String(data.recent[0].id) : '0';
+    }
+
+    function isNewerOrEqualId(candidateId, refId) {
+      try {
+        return BigInt(candidateId || '0') >= BigInt(refId || '0');
+      } catch (_) {
+        return true;
+      }
+    }
+
+    function applyData(data) {
+      if (!data) return;
+      if (data.recent && data.recent.length) {
+        const latestEl = document.getElementById('x-card-latest');
+        if (latestEl && isNewerOrEqualId(getLatestId(data), getCurrentDomLatestId())) {
+          const html = renderLatestCardHtml(data.recent);
+          if (html) latestEl.innerHTML = html;
+        }
+      }
+      if (data.pinned && data.pinned.id && data.pinned.id !== DEFAULT_PINNED_ID) {
+        const pinnedEl = document.getElementById('x-card-pinned');
+        if (pinnedEl) {
+          const html = renderPinnedCardHtml(data.pinned);
+          if (html) pinnedEl.innerHTML = html;
+        }
+      }
+    }
+
+    async function fetchFxTweet(tid) {
+      const res = await fetch('https://api.fxtwitter.com/' + HANDLE + '/status/' + tid);
+      if (!res.ok) throw new Error('FxTwitter ' + res.status);
+      const json = await res.json();
+      return normalizeFxTweet(json.tweet, tid);
+    }
+
+    async function fetchProfileText() {
+      const url = 'https://r.jina.ai/https://x.com/' + HANDLE;
+      try {
+        const res = await fetch(url, {
+          headers: { 'X-Return-Format': 'html', 'X-No-Cache': 'true' }
+        });
+        if (res.ok) return await res.text();
+      } catch (_) {}
+      const resFallback = await fetch(url);
+      if (!resFallback.ok) throw new Error('Jina ' + resFallback.status);
+      return await resFallback.text();
+    }
+
+    async function syncLiveFromX(fallbackData) {
+      const html = await fetchProfileText();
+      const re = new RegExp('/' + HANDLE + '/status/(\\d+)', 'gi');
+      const ordered = [];
+      const seen = new Set();
+      let m;
+      while ((m = re.exec(html)) !== null) {
+        if (!seen.has(m[1])) {
+          seen.add(m[1]);
+          ordered.push(m[1]);
+        }
+      }
+      if (!ordered.length) throw new Error('No tweet IDs');
+      let pinnedId = DEFAULT_PINNED_ID;
+      let rest = ordered;
+      const maxRest = ordered.slice(1).reduce((acc, x) => (BigInt(x) > acc ? BigInt(x) : acc), 0n);
+      if (ordered.length >= 2 && BigInt(ordered[0]) < maxRest) {
+        pinnedId = ordered[0];
+        rest = ordered.slice(1);
+      } else {
+        rest = ordered.filter(id => id !== pinnedId);
+      }
+      rest.sort((a, b) => (BigInt(b) > BigInt(a) ? 1 : -1));
+      const topIds = rest.slice(0, 3);
+      const fallbackLatestId = getLatestId(fallbackData);
+      if (fallbackData && !isNewerOrEqualId(topIds[0], fallbackLatestId)) {
+        return fallbackData;
+      }
+      const fallbackPinnedId = (fallbackData && fallbackData.pinned && fallbackData.pinned.id) || DEFAULT_PINNED_ID;
+      if (
+        fallbackData &&
+        fallbackData.recent &&
+        fallbackData.recent.length >= 2 &&
+        fallbackData.recent[0].id === topIds[0] &&
+        fallbackData.recent[1].id === topIds[1] &&
+        fallbackPinnedId === pinnedId
+      ) {
+        return fallbackData;
+      }
+      const [recent, pinned] = await Promise.all([
+        Promise.all(topIds.map(fetchFxTweet)),
+        pinnedId === fallbackPinnedId && fallbackData && fallbackData.pinned
+          ? Promise.resolve(fallbackData.pinned)
+          : fetchFxTweet(pinnedId)
+      ]);
+      return {
+        updated_at: new Date().toISOString(),
+        handle: HANDLE,
+        latest: recent[0],
+        recent: recent,
+        pinned: pinned
+      };
+    }
+
+    async function init() {
+      let cached = null;
+      let bestData = null;
+      try {
+        const raw = localStorage.getItem(CACHE_KEY);
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          if (parsed && parsed.data) {
+            cached = parsed;
+            bestData = parsed.data;
+            applyData(bestData);
+          }
+        }
+      } catch (_) {}
+
+      try {
+        const res = await fetch('assets/x-recent.json', { cache: 'no-cache' });
+        if (res.ok) {
+          const staticData = await res.json();
+          if (!bestData || isNewerOrEqualId(getLatestId(staticData), getLatestId(bestData))) {
+            bestData = staticData;
+            applyData(staticData);
+          }
+        }
+      } catch (_) {}
+
+      if (cached && (Date.now() - cached.ts < CACHE_TTL_MS) && isNewerOrEqualId(getLatestId(cached.data), getLatestId(bestData))) {
+        return;
+      }
+
+      try {
+        const liveData = await syncLiveFromX(bestData);
+        if (liveData && isNewerOrEqualId(getLatestId(liveData), getLatestId(bestData))) {
+          applyData(liveData);
+          localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), data: liveData }));
+        }
+      } catch (_) {}
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+  </script>
 </body>
 </html>

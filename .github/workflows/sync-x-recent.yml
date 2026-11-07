@@ -1,0 +1,40 @@
+name: Sync Recent on X
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Sync latest X posts
+        run: python3 scripts/sync_x_recent.py
+
+      - name: Commit and push if updated
+        run: |
+          if [ -n "$(git status --porcelain assets/x-recent.json index.html)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/x-recent.json index.html
+            git commit -m "chore(x): sync recent @NekoStranding posts"
+            git pull --rebase origin master
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -395,6 +395,95 @@ a:hover {
   font-weight: 600;
 }
 
+/* Quoted Tweet Box & Secondary Post inside Recent on X Card */
+.tweet-quote {
+  display: block;
+  margin-top: var(--sp-2);
+  padding: 10px 12px;
+  border-radius: 7px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-cn);
+  text-decoration: none;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.tweet-quote:hover {
+  border-color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.04);
+  text-decoration: none;
+}
+
+.quote-head {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 4px;
+  font-size: 0.8rem;
+}
+
+.quote-author {
+  font-weight: 600;
+  color: var(--text);
+}
+
+.quote-handle {
+  color: var(--text-muted);
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.75rem;
+}
+
+.quote-text {
+  margin: 0;
+  font-size: 0.84rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.quote-media {
+  margin-top: 8px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--border-subtle);
+  background: #07090d;
+  max-height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-media img {
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: contain;
+  display: block;
+}
+
+.tweet-secondary {
+  margin-top: var(--sp-3);
+  padding-top: var(--sp-3);
+  border-top: 1px solid var(--border-subtle);
+}
+
+.tweet-secondary-meta {
+  margin-bottom: 6px;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.74rem;
+}
+
+.tweet-secondary-meta a {
+  color: var(--text-muted);
+}
+
+.tweet-secondary-meta a:hover {
+  color: var(--accent);
+}
+
 code {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   font-size: 0.84em;
