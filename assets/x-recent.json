@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-07T05:27:21Z",
+  "updated_at": "2026-11-07T12:59:22Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2118933007688188241",
-    "url": "https://x.com/NekoStranding/status/2118933007688188241",
+    "id": "2118949192500474233",
+    "url": "https://x.com/NekoStranding/status/2118949192500474233",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sat Nov 07 05:06:11 +0000 2026",
-    "created_timestamp": 1794027971,
+    "created_at": "Sat Nov 07 06:10:30 +0000 2026",
+    "created_timestamp": 1794031830,
     "date_label": "Nov 7, 2026",
-    "text": "这就是 multi-agent 的实力吗！",
+    "text": "这就是多 Agent 的实力吗！",
     "media": {
       "type": "photo",
-      "thumb_url": "https://pbs.twimg.com/media/HWf2VSZbAAArVLD.jpg?name=medium",
+      "thumb_url": "https://pbs.twimg.com/media/HWgFDfIboAA1sya.jpg?name=medium",
       "width": 1086,
       "height": 1448
     },
@@ -29,23 +29,23 @@
         "height": 1086
       }
     },
-    "likes": 0,
+    "likes": 4,
     "retweets": 0,
     "replies": 0
   },
   "recent": [
     {
-      "id": "2118933007688188241",
-      "url": "https://x.com/NekoStranding/status/2118933007688188241",
+      "id": "2118949192500474233",
+      "url": "https://x.com/NekoStranding/status/2118949192500474233",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 07 05:06:11 +0000 2026",
-      "created_timestamp": 1794027971,
+      "created_at": "Sat Nov 07 06:10:30 +0000 2026",
+      "created_timestamp": 1794031830,
       "date_label": "Nov 7, 2026",
-      "text": "这就是 multi-agent 的实力吗！",
+      "text": "这就是多 Agent 的实力吗！",
       "media": {
         "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWf2VSZbAAArVLD.jpg?name=medium",
+        "thumb_url": "https://pbs.twimg.com/media/HWgFDfIboAA1sya.jpg?name=medium",
         "width": 1086,
         "height": 1448
       },
@@ -62,7 +62,7 @@
           "height": 1086
         }
       },
-      "likes": 0,
+      "likes": 4,
       "retweets": 0,
       "replies": 0
     },
@@ -77,9 +77,9 @@
       "text": "简中 X 特这么多 PhD 的吗...\n\n那我也稍微吹一下的，咱今年也参与了 iclr，上班这么多年可能突然发出一篇 AI 顶会的说...",
       "media": null,
       "quote": null,
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1
+      "likes": 20,
+      "retweets": 1,
+      "replies": 3
     },
     {
       "id": "2118922889013727449",
@@ -104,9 +104,9 @@
           "height": 1600
         }
       },
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0
+      "replies": 1
     }
   ],
   "pinned": {
@@ -126,7 +126,7 @@
       "height": 1570
     },
     "quote": null,
-    "likes": 106,
+    "likes": 107,
     "retweets": 10,
     "replies": 22
   }
