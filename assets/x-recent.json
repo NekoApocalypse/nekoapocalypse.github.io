@@ -1,39 +1,61 @@
 {
-  "updated_at": "2026-11-07T18:48:20Z",
+  "updated_at": "2026-11-08T05:59:36Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2119053652925292959",
-    "url": "https://x.com/NekoStranding/status/2119053652925292959",
+    "id": "2119253432553070825",
+    "url": "https://x.com/NekoStranding/status/2119253432553070825",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sat Nov 07 13:05:35 +0000 2026",
-    "created_timestamp": 1794056735,
-    "date_label": "Nov 7, 2026",
-    "text": "我问过 Gemini 最蠢的问题：吃了很多肥牛卷",
-    "media": {
-      "type": "photo",
-      "thumb_url": "https://pbs.twimg.com/media/HWhkEGFaMAAr5f0.jpg?name=medium",
-      "width": 1080,
-      "height": 1246
-    },
+    "created_at": "Sun Nov 08 02:19:26 +0000 2026",
+    "created_timestamp": 1794104366,
+    "date_label": "Nov 8, 2026",
+    "text": "这样的神仙审稿人哪里有我怎么没遇到过",
+    "media": null,
     "quote": {
-      "id": "2118589949754958234",
-      "url": "https://x.com/mxyzcdb/status/2118589949754958234",
-      "author_name": "翅翅膀喵喵喵",
-      "author_handle": "mxyzcdb",
-      "text": "这下明白为什么皇帝喜欢奸臣了",
+      "id": "2118700259614613589",
+      "url": "https://x.com/MaxForAI/status/2118700259614613589",
+      "author_name": "Max For AI",
+      "author_handle": "MaxForAI",
+      "text": "这tm就是AI时代的科研么🤣",
       "media": {
         "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWapBGcasAAR8yg.jpg?name=medium",
-        "width": 1170,
-        "height": 1019
+        "thumb_url": "https://pbs.twimg.com/media/HWciSU_a4AAu7jd.png?name=medium",
+        "width": 632,
+        "height": 600
       }
     },
-    "likes": 5,
+    "likes": 2,
     "retweets": 0,
     "replies": 1
   },
   "recent": [
+    {
+      "id": "2119253432553070825",
+      "url": "https://x.com/NekoStranding/status/2119253432553070825",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sun Nov 08 02:19:26 +0000 2026",
+      "created_timestamp": 1794104366,
+      "date_label": "Nov 8, 2026",
+      "text": "这样的神仙审稿人哪里有我怎么没遇到过",
+      "media": null,
+      "quote": {
+        "id": "2118700259614613589",
+        "url": "https://x.com/MaxForAI/status/2118700259614613589",
+        "author_name": "Max For AI",
+        "author_handle": "MaxForAI",
+        "text": "这tm就是AI时代的科研么🤣",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HWciSU_a4AAu7jd.png?name=medium",
+          "width": 632,
+          "height": 600
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1
+    },
     {
       "id": "2119053652925292959",
       "url": "https://x.com/NekoStranding/status/2119053652925292959",
@@ -62,9 +84,9 @@
           "height": 1019
         }
       },
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
-      "replies": 1
+      "replies": 2
     },
     {
       "id": "2118949192500474233",
@@ -94,24 +116,9 @@
           "height": 1086
         }
       },
-      "likes": 9,
+      "likes": 20,
       "retweets": 0,
       "replies": 0
-    },
-    {
-      "id": "2118932031061303753",
-      "url": "https://x.com/NekoStranding/status/2118932031061303753",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 07 05:02:18 +0000 2026",
-      "created_timestamp": 1794027738,
-      "date_label": "Nov 7, 2026",
-      "text": "简中 X 特这么多 PhD 的吗...\n\n那我也稍微吹一下的，咱今年也参与了 iclr，上班这么多年可能突然发出一篇 AI 顶会的说...",
-      "media": null,
-      "quote": null,
-      "likes": 26,
-      "retweets": 1,
-      "replies": 4
     }
   ],
   "pinned": {
