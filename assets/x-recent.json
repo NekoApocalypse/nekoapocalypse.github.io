@@ -1,124 +1,104 @@
 {
-  "updated_at": "2026-11-08T05:59:36Z",
+  "updated_at": "2026-11-09T06:26:00Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2119253432553070825",
-    "url": "https://x.com/NekoStranding/status/2119253432553070825",
+    "id": "2119663563501662420",
+    "url": "https://x.com/NekoStranding/status/2119663563501662420",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sun Nov 08 02:19:26 +0000 2026",
-    "created_timestamp": 1794104366,
-    "date_label": "Nov 8, 2026",
-    "text": "这样的神仙审稿人哪里有我怎么没遇到过",
+    "created_at": "Mon Nov 09 05:29:09 +0000 2026",
+    "created_timestamp": 1794202149,
+    "date_label": "Nov 9, 2026",
+    "text": "美美隐身了三个版本的 Google Deepmind 终于要回来了？\n\n「我们正在全面见证科学发现的速度发生跨越式的质变——未来几周的新品发布，将揭开它的冰山一角。」",
     "media": null,
     "quote": {
-      "id": "2118700259614613589",
-      "url": "https://x.com/MaxForAI/status/2118700259614613589",
-      "author_name": "Max For AI",
-      "author_handle": "MaxForAI",
-      "text": "这tm就是AI时代的科研么🤣",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWciSU_a4AAu7jd.png?name=medium",
-        "width": 632,
-        "height": 600
-      }
+      "id": "2119373171321196892",
+      "url": "https://x.com/pushmeet/status/2119373171321196892",
+      "author_name": "Pushmeet Kohli",
+      "author_handle": "pushmeet",
+      "text": "Across our projects @GoogleDeepMind, we are witnessing a genuine phase transition in the pace of scientific discovery. You will see a glimpse of this in our releases in the next few weeks.",
+      "media": null
     },
-    "likes": 2,
+    "likes": 0,
     "retweets": 0,
-    "replies": 1
+    "replies": 0
   },
   "recent": [
     {
-      "id": "2119253432553070825",
-      "url": "https://x.com/NekoStranding/status/2119253432553070825",
+      "id": "2119663563501662420",
+      "url": "https://x.com/NekoStranding/status/2119663563501662420",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Sun Nov 08 02:19:26 +0000 2026",
-      "created_timestamp": 1794104366,
-      "date_label": "Nov 8, 2026",
-      "text": "这样的神仙审稿人哪里有我怎么没遇到过",
+      "created_at": "Mon Nov 09 05:29:09 +0000 2026",
+      "created_timestamp": 1794202149,
+      "date_label": "Nov 9, 2026",
+      "text": "美美隐身了三个版本的 Google Deepmind 终于要回来了？\n\n「我们正在全面见证科学发现的速度发生跨越式的质变——未来几周的新品发布，将揭开它的冰山一角。」",
       "media": null,
       "quote": {
-        "id": "2118700259614613589",
-        "url": "https://x.com/MaxForAI/status/2118700259614613589",
-        "author_name": "Max For AI",
-        "author_handle": "MaxForAI",
-        "text": "这tm就是AI时代的科研么🤣",
+        "id": "2119373171321196892",
+        "url": "https://x.com/pushmeet/status/2119373171321196892",
+        "author_name": "Pushmeet Kohli",
+        "author_handle": "pushmeet",
+        "text": "Across our projects @GoogleDeepMind, we are witnessing a genuine phase transition in the pace of scientific discovery. You will see a glimpse of this in our releases in the next few weeks.",
+        "media": null
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2119661247834833336",
+      "url": "https://x.com/NekoStranding/status/2119661247834833336",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Mon Nov 09 05:19:57 +0000 2026",
+      "created_timestamp": 1794201597,
+      "date_label": "Nov 9, 2026",
+      "text": "啊？啥？这说谁呢？不我不是我没有。。",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HWqMqwTacAAxoWy.jpg?name=medium",
+        "width": 1080,
+        "height": 518
+      },
+      "quote": {
+        "id": "2117132553606123798",
+        "url": "https://x.com/forecho/status/2117132553606123798",
+        "author_name": "forecho📈",
+        "author_handle": "forecho",
+        "text": "复制下面的提示词，发给你的 Grok Bot 或者 ChatGPT，会有意外的收获。🌚🤪🌚🤪\n\nBased on everything you know about me, roast and don’t hold back. Say it in Chinese slung just like this, but add way more Chinese swear words  根据过往对话回答我 \n发给你们在用的ai试试",
+        "media": null
+      },
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2119654034948915201",
+      "url": "https://x.com/NekoStranding/status/2119654034948915201",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Mon Nov 09 04:51:17 +0000 2026",
+      "created_timestamp": 1794199877,
+      "date_label": "Nov 9, 2026",
+      "text": "啊？现在换 Claude 流口水了吗",
+      "media": null,
+      "quote": {
+        "id": "2119470508362338790",
+        "url": "https://x.com/xiaoyaodez51072/status/2119470508362338790",
+        "author_name": "天宮 秋水",
+        "author_handle": "xiaoyaodez51072",
+        "text": "🫥🫥🫥",
         "media": {
           "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWciSU_a4AAu7jd.png?name=medium",
-          "width": 632,
-          "height": 600
+          "thumb_url": "https://pbs.twimg.com/media/HWnfHKrb0AA7vz3.jpg?name=medium",
+          "width": 1536,
+          "height": 1024
         }
       },
       "likes": 2,
       "retweets": 0,
       "replies": 1
-    },
-    {
-      "id": "2119053652925292959",
-      "url": "https://x.com/NekoStranding/status/2119053652925292959",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 07 13:05:35 +0000 2026",
-      "created_timestamp": 1794056735,
-      "date_label": "Nov 7, 2026",
-      "text": "我问过 Gemini 最蠢的问题：吃了很多肥牛卷",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWhkEGFaMAAr5f0.jpg?name=medium",
-        "width": 1080,
-        "height": 1246
-      },
-      "quote": {
-        "id": "2118589949754958234",
-        "url": "https://x.com/mxyzcdb/status/2118589949754958234",
-        "author_name": "翅翅膀喵喵喵",
-        "author_handle": "mxyzcdb",
-        "text": "这下明白为什么皇帝喜欢奸臣了",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWapBGcasAAR8yg.jpg?name=medium",
-          "width": 1170,
-          "height": 1019
-        }
-      },
-      "likes": 6,
-      "retweets": 0,
-      "replies": 2
-    },
-    {
-      "id": "2118949192500474233",
-      "url": "https://x.com/NekoStranding/status/2118949192500474233",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 07 06:10:30 +0000 2026",
-      "created_timestamp": 1794031830,
-      "date_label": "Nov 7, 2026",
-      "text": "这就是多 Agent 的实力吗！",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWgFDfIboAA1sya.jpg?name=medium",
-        "width": 1086,
-        "height": 1448
-      },
-      "quote": {
-        "id": "2118871118618759374",
-        "url": "https://x.com/NekoStranding/status/2118871118618759374",
-        "author_name": "毒猫猫 | 量化摸鱼师",
-        "author_handle": "NekoStranding",
-        "text": "这两天搞了个雷霆大 Agent，玩了个「工作自己转，关键节点来找人」\n\n核心思路是用 DeepSeek 做前台调度，主打一个随叫随到，帮我管任务、传话、发继续；后台用 Gemini Argon 做意图理解，设计和深度。前台可以随时开 worker 替它思考。最后还实现了个 dream\n\n天才大肥鱼，找一车哈基米来弄你！",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWe-DCtbwAAHehT.jpg?name=medium",
-          "width": 1448,
-          "height": 1086
-        }
-      },
-      "likes": 20,
-      "retweets": 0,
-      "replies": 0
     }
   ],
   "pinned": {
