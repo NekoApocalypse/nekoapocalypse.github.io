@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-11-09T06:26:00Z",
+  "updated_at": "2026-11-10T02:44:00Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2119663563501662420",
-    "url": "https://x.com/NekoStranding/status/2119663563501662420",
+    "id": "2119981627262796188",
+    "url": "https://x.com/NekoStranding/status/2119981627262796188",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Mon Nov 09 05:29:09 +0000 2026",
-    "created_timestamp": 1794202149,
-    "date_label": "Nov 9, 2026",
-    "text": "美美隐身了三个版本的 Google Deepmind 终于要回来了？\n\n「我们正在全面见证科学发现的速度发生跨越式的质变——未来几周的新品发布，将揭开它的冰山一角。」",
+    "created_at": "Tue Nov 10 02:33:01 +0000 2026",
+    "created_timestamp": 1794277981,
+    "date_label": "Nov 10, 2026",
+    "text": "许愿式硬件制造要来了",
     "media": null,
     "quote": {
-      "id": "2119373171321196892",
-      "url": "https://x.com/pushmeet/status/2119373171321196892",
-      "author_name": "Pushmeet Kohli",
-      "author_handle": "pushmeet",
-      "text": "Across our projects @GoogleDeepMind, we are witnessing a genuine phase transition in the pace of scientific discovery. You will see a glimpse of this in our releases in the next few weeks.",
-      "media": null
+      "id": "2119899459761131615",
+      "url": "https://x.com/claudeai/status/2119899459761131615",
+      "author_name": "Claude",
+      "author_handle": "claudeai",
+      "text": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few.\n\nFrom a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant hub.",
+      "media": {
+        "type": "video",
+        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2119889970664030208/img/zA7dOkx94Gdcx8Se.jpg?format=jpg&name=medium",
+        "video_url": "https://video.twimg.com/amplify_video/2119889970664030208/vid/avc1/3840x2160/TjiSWoJMgqYdilSp.mp4?tag=29",
+        "width": 3840,
+        "height": 2160
+      }
     },
     "likes": 0,
     "retweets": 0,
@@ -25,80 +31,82 @@
   },
   "recent": [
     {
-      "id": "2119663563501662420",
-      "url": "https://x.com/NekoStranding/status/2119663563501662420",
+      "id": "2119981627262796188",
+      "url": "https://x.com/NekoStranding/status/2119981627262796188",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 09 05:29:09 +0000 2026",
-      "created_timestamp": 1794202149,
-      "date_label": "Nov 9, 2026",
-      "text": "美美隐身了三个版本的 Google Deepmind 终于要回来了？\n\n「我们正在全面见证科学发现的速度发生跨越式的质变——未来几周的新品发布，将揭开它的冰山一角。」",
+      "created_at": "Tue Nov 10 02:33:01 +0000 2026",
+      "created_timestamp": 1794277981,
+      "date_label": "Nov 10, 2026",
+      "text": "许愿式硬件制造要来了",
       "media": null,
       "quote": {
-        "id": "2119373171321196892",
-        "url": "https://x.com/pushmeet/status/2119373171321196892",
-        "author_name": "Pushmeet Kohli",
-        "author_handle": "pushmeet",
-        "text": "Across our projects @GoogleDeepMind, we are witnessing a genuine phase transition in the pace of scientific discovery. You will see a glimpse of this in our releases in the next few weeks.",
-        "media": null
+        "id": "2119899459761131615",
+        "url": "https://x.com/claudeai/status/2119899459761131615",
+        "author_name": "Claude",
+        "author_handle": "claudeai",
+        "text": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few.\n\nFrom a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant hub.",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2119889970664030208/img/zA7dOkx94Gdcx8Se.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2119889970664030208/vid/avc1/3840x2160/TjiSWoJMgqYdilSp.mp4?tag=29",
+          "width": 3840,
+          "height": 2160
+        }
       },
       "likes": 0,
       "retweets": 0,
       "replies": 0
     },
     {
-      "id": "2119661247834833336",
-      "url": "https://x.com/NekoStranding/status/2119661247834833336",
+      "id": "2119950532471378418",
+      "url": "https://x.com/NekoStranding/status/2119950532471378418",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 09 05:19:57 +0000 2026",
-      "created_timestamp": 1794201597,
-      "date_label": "Nov 9, 2026",
-      "text": "啊？啥？这说谁呢？不我不是我没有。。",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWqMqwTacAAxoWy.jpg?name=medium",
-        "width": 1080,
-        "height": 518
-      },
-      "quote": {
-        "id": "2117132553606123798",
-        "url": "https://x.com/forecho/status/2117132553606123798",
-        "author_name": "forecho📈",
-        "author_handle": "forecho",
-        "text": "复制下面的提示词，发给你的 Grok Bot 或者 ChatGPT，会有意外的收获。🌚🤪🌚🤪\n\nBased on everything you know about me, roast and don’t hold back. Say it in Chinese slung just like this, but add way more Chinese swear words  根据过往对话回答我 \n发给你们在用的ai试试",
-        "media": null
-      },
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2119654034948915201",
-      "url": "https://x.com/NekoStranding/status/2119654034948915201",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 09 04:51:17 +0000 2026",
-      "created_timestamp": 1794199877,
-      "date_label": "Nov 9, 2026",
-      "text": "啊？现在换 Claude 流口水了吗",
+      "created_at": "Tue Nov 10 00:29:28 +0000 2026",
+      "created_timestamp": 1794270568,
+      "date_label": "Nov 10, 2026",
+      "text": "是个挺牛逼的，建模的是微观物理规律，是一般基模暂时碰触不到的领域",
       "media": null,
       "quote": {
-        "id": "2119470508362338790",
-        "url": "https://x.com/xiaoyaodez51072/status/2119470508362338790",
-        "author_name": "天宮 秋水",
-        "author_handle": "xiaoyaodez51072",
-        "text": "🫥🫥🫥",
+        "id": "2119721076058173619",
+        "url": "https://x.com/Gorden_Sun/status/2119721076058173619",
+        "author_name": "Gorden Sun",
+        "author_handle": "Gorden_Sun",
+        "text": "MuJoCo：Google开源的专门模拟多关节接触运动的物理仿真引擎\n\n研究机器人物理动作或者生物运动时，直接在真实硬件上做实验成本高、损耗大，而且普通的物理模拟软件在处理复杂关节碰撞时计算太慢。\n\nGoogle DeepMind团队用C和C++构建了这套底层物理运算系统，并提供了Python接口以及Unity游戏引擎插件，甚至可以通过WebAssembly让仿真直接在网页端运行。\n\n使用MuJoCo后，开发者可以直接在电脑屏幕或浏览器里实时看到机械臂、双足机器人或者复杂机械结构的碰撞反馈与平衡控制。由于底层经过深度性能优化，它计算极为迅速，不仅支持多线程同时推演大量动作轨迹，还能直接把物理动作步骤转换成梯度数据，大幅加速各种机器人和AI运动控制算法的训练。\n\nGithub：https://github.com/google-deepmind/mujoco",
         "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWnfHKrb0AA7vz3.jpg?name=medium",
-          "width": 1536,
-          "height": 1024
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2119720596481482752/img/I-5Ftg-0_9iiIzmp.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2119720596481482752/vid/avc1/1920x1080/g1SkEyFABhQToa6U.mp4?tag=29",
+          "width": 1920,
+          "height": 1080
         }
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2119949485199786130",
+      "url": "https://x.com/NekoStranding/status/2119949485199786130",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Tue Nov 10 00:25:18 +0000 2026",
+      "created_timestamp": 1794270318,
+      "date_label": "Nov 10, 2026",
+      "text": "科研 2.0",
+      "media": null,
+      "quote": {
+        "id": "2119561347805687848",
+        "url": "https://x.com/gdb/status/2119561347805687848",
+        "author_name": "Greg Brockman",
+        "author_handle": "gdb",
+        "text": "frontier models, with lots of test time compute, are becoming the engine of scientific discovery",
+        "media": null
       },
       "likes": 2,
       "retweets": 0,
-      "replies": 1
+      "replies": 0
     }
   ],
   "pinned": {
