@@ -1,97 +1,76 @@
 {
-  "updated_at": "2026-11-10T12:38:42Z",
+  "updated_at": "2026-11-10T20:49:49Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120084389950579114",
-    "url": "https://x.com/NekoStranding/status/2120084389950579114",
+    "id": "2120191825915121765",
+    "url": "https://x.com/NekoStranding/status/2120191825915121765",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Tue Nov 10 09:21:22 +0000 2026",
-    "created_timestamp": 1794302482,
+    "created_at": "Tue Nov 10 16:28:17 +0000 2026",
+    "created_timestamp": 1794328097,
     "date_label": "Nov 10, 2026",
-    "text": "呜呜~ 呜呜呜~~~~ 呜呜呜呜~呜~ 呜呜呜~~~~~~~\n\n噔噔噔~噔~",
+    "text": "人工智能理论过于艰深，我闹不活了\n\n还是赶快回家研究大睡理论",
     "media": null,
-    "quote": {
-      "id": "2119827291169759399",
-      "url": "https://x.com/zane_os/status/2119827291169759399",
-      "author_name": "Zane",
-      "author_handle": "zane_os",
-      "text": "Reddit上一位大佬做了Deepseek Harness原神进场动画插件😂\n\n每次打开原神DSH就像在进行一次盛大的洗礼 非常神圣\n\n我永远不会跳过这个开头动画的 跳过进场动画相当于跳过了我的人生",
-      "media": {
-        "type": "video",
-        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2119827210676981760/img/PJVRivvggT74Sn6f.jpg?format=jpg&name=medium",
-        "video_url": "https://video.twimg.com/amplify_video/2119827210676981760/vid/avc1/1134x720/0H5zULZkcCIY-uZ5.mp4?tag=29",
-        "width": 1134,
-        "height": 720
-      }
-    },
-    "likes": 2,
+    "quote": null,
+    "likes": 3,
     "retweets": 0,
-    "replies": 0
+    "replies": 1
   },
   "recent": [
     {
-      "id": "2120084389950579114",
-      "url": "https://x.com/NekoStranding/status/2120084389950579114",
+      "id": "2120191825915121765",
+      "url": "https://x.com/NekoStranding/status/2120191825915121765",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 09:21:22 +0000 2026",
-      "created_timestamp": 1794302482,
+      "created_at": "Tue Nov 10 16:28:17 +0000 2026",
+      "created_timestamp": 1794328097,
       "date_label": "Nov 10, 2026",
-      "text": "呜呜~ 呜呜呜~~~~ 呜呜呜呜~呜~ 呜呜呜~~~~~~~\n\n噔噔噔~噔~",
-      "media": null,
-      "quote": {
-        "id": "2119827291169759399",
-        "url": "https://x.com/zane_os/status/2119827291169759399",
-        "author_name": "Zane",
-        "author_handle": "zane_os",
-        "text": "Reddit上一位大佬做了Deepseek Harness原神进场动画插件😂\n\n每次打开原神DSH就像在进行一次盛大的洗礼 非常神圣\n\n我永远不会跳过这个开头动画的 跳过进场动画相当于跳过了我的人生",
-        "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2119827210676981760/img/PJVRivvggT74Sn6f.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2119827210676981760/vid/avc1/1134x720/0H5zULZkcCIY-uZ5.mp4?tag=29",
-          "width": 1134,
-          "height": 720
-        }
-      },
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2120071731587219748",
-      "url": "https://x.com/NekoStranding/status/2120071731587219748",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 08:31:04 +0000 2026",
-      "created_timestamp": 1794299464,
-      "date_label": "Nov 10, 2026",
-      "text": "求助万能的 x 友，那个俩人冲速溶咖啡，一个加粉一个加奶，中间一个杯子来回推，最后全给倒桌子上了的那个视频\n\n原版是哪来的啊？我看过好几个 ai 翻拍了",
+      "text": "人工智能理论过于艰深，我闹不活了\n\n还是赶快回家研究大睡理论",
       "media": null,
       "quote": null,
-      "likes": 1,
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2120191484888752590",
+      "url": "https://x.com/NekoStranding/status/2120191484888752590",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Tue Nov 10 16:26:55 +0000 2026",
+      "created_timestamp": 1794328015,
+      "date_label": "Nov 10, 2026",
+      "text": "我买的大冤种方案终于尝到甜头了！！！",
+      "media": null,
+      "quote": {
+        "id": "2120180103405580794",
+        "url": "https://x.com/leo114119/status/2120180103405580794",
+        "author_name": "Leo · Building w/ AI",
+        "author_handle": "leo114119",
+        "text": "Gemini 4 Carbon 已经正式在 Antigravity 上出现了\n\n可惜仍然只有 AI Ultra 的 用户可以使用\n\nAI Pro的用户至少还要等两天以上吧",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HWxkZLgWMAA1hCH.png?name=medium",
+          "width": 863,
+          "height": 329
+        }
+      },
+      "likes": 0,
       "retweets": 0,
       "replies": 0
     },
     {
-      "id": "2120070747565764858",
-      "url": "https://x.com/NekoStranding/status/2120070747565764858",
+      "id": "2120172520502624320",
+      "url": "https://x.com/NekoStranding/status/2120172520502624320",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 08:27:09 +0000 2026",
-      "created_timestamp": 1794299229,
+      "created_at": "Tue Nov 10 15:11:34 +0000 2026",
+      "created_timestamp": 1794323494,
       "date_label": "Nov 10, 2026",
-      "text": "这是个很有意思的观点。仅仅因为「精妙的算法」最后都被力大砖飞的算力系统给解决了，不代表这些算法本身的研究是没有意义的\n\n想搞训练，你必须先提出正确的问题，先得到正确的收敛，数据飞轮才能转起来。算法研究本身就是非常有意义的开创性活动。至于研究出来的算法，它们本来也只是副产品",
+      "text": "不是哥们，什么叫 OpenRview 都已经被人爬完了，而且 hugging face 和 GitHub 上都已经被传了6 遍了？\n\n这什么恐怖的开源精神... 你们是想拿 reviewer 当数据集吗",
       "media": null,
-      "quote": {
-        "id": "2119783945210613804",
-        "url": "https://x.com/imprashantrai1/status/2119783945210613804",
-        "author_name": "Prashant Rai",
-        "author_handle": "imprashantrai1",
-        "text": "The Bitter Lesson is often mistaken for an argument against algorithmic ingenuity, when it’s really an argument against hardcoding our own ingenuity into the system.",
-        "media": null
-      },
-      "likes": 6,
+      "quote": null,
+      "likes": 3,
       "retweets": 0,
       "replies": 0
     }
