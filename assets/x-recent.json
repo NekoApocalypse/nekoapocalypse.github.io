@@ -1,22 +1,61 @@
 {
-  "updated_at": "2026-11-10T20:49:49Z",
+  "updated_at": "2026-11-11T01:55:48Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120191825915121765",
-    "url": "https://x.com/NekoStranding/status/2120191825915121765",
+    "id": "2120333543444549854",
+    "url": "https://x.com/NekoStranding/status/2120333543444549854",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Tue Nov 10 16:28:17 +0000 2026",
-    "created_timestamp": 1794328097,
-    "date_label": "Nov 10, 2026",
-    "text": "人工智能理论过于艰深，我闹不活了\n\n还是赶快回家研究大睡理论",
+    "created_at": "Wed Nov 11 01:51:25 +0000 2026",
+    "created_timestamp": 1794361885,
+    "date_label": "Nov 11, 2026",
+    "text": "所以大肥鱼的祖上是谁啊，梁祖吗",
     "media": null,
-    "quote": null,
-    "likes": 3,
+    "quote": {
+      "id": "2120163919222448636",
+      "url": "https://x.com/hsn8086/status/2120163919222448636",
+      "author_name": "hsn",
+      "author_handle": "hsn8086",
+      "text": "",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HWxV17WaAAApH-C.jpg?name=medium",
+        "width": 828,
+        "height": 466
+      }
+    },
+    "likes": 0,
     "retweets": 0,
     "replies": 1
   },
   "recent": [
+    {
+      "id": "2120333543444549854",
+      "url": "https://x.com/NekoStranding/status/2120333543444549854",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Wed Nov 11 01:51:25 +0000 2026",
+      "created_timestamp": 1794361885,
+      "date_label": "Nov 11, 2026",
+      "text": "所以大肥鱼的祖上是谁啊，梁祖吗",
+      "media": null,
+      "quote": {
+        "id": "2120163919222448636",
+        "url": "https://x.com/hsn8086/status/2120163919222448636",
+        "author_name": "hsn",
+        "author_handle": "hsn8086",
+        "text": "",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HWxV17WaAAApH-C.jpg?name=medium",
+          "width": 828,
+          "height": 466
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1
+    },
     {
       "id": "2120191825915121765",
       "url": "https://x.com/NekoStranding/status/2120191825915121765",
@@ -28,7 +67,7 @@
       "text": "人工智能理论过于艰深，我闹不活了\n\n还是赶快回家研究大睡理论",
       "media": null,
       "quote": null,
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 1
     },
@@ -55,21 +94,6 @@
           "height": 329
         }
       },
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2120172520502624320",
-      "url": "https://x.com/NekoStranding/status/2120172520502624320",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 15:11:34 +0000 2026",
-      "created_timestamp": 1794323494,
-      "date_label": "Nov 10, 2026",
-      "text": "不是哥们，什么叫 OpenRview 都已经被人爬完了，而且 hugging face 和 GitHub 上都已经被传了6 遍了？\n\n这什么恐怖的开源精神... 你们是想拿 reviewer 当数据集吗",
-      "media": null,
-      "quote": null,
       "likes": 3,
       "retweets": 0,
       "replies": 0
