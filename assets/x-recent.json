@@ -1,102 +1,87 @@
 {
-  "updated_at": "2026-11-11T01:55:48Z",
+  "updated_at": "2026-11-11T09:25:05Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120333543444549854",
-    "url": "https://x.com/NekoStranding/status/2120333543444549854",
+    "id": "2120430744782954660",
+    "url": "https://x.com/NekoStranding/status/2120430744782954660",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Wed Nov 11 01:51:25 +0000 2026",
-    "created_timestamp": 1794361885,
+    "created_at": "Wed Nov 11 08:17:39 +0000 2026",
+    "created_timestamp": 1794385059,
     "date_label": "Nov 11, 2026",
-    "text": "所以大肥鱼的祖上是谁啊，梁祖吗",
+    "text": "Gemini 4 Argon 的心态很棒，自己 review 刚写的研究文档时，经常忍不住给自己鼓掌",
     "media": null,
     "quote": {
-      "id": "2120163919222448636",
-      "url": "https://x.com/hsn8086/status/2120163919222448636",
-      "author_name": "hsn",
-      "author_handle": "hsn8086",
-      "text": "",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HWxV17WaAAApH-C.jpg?name=medium",
-        "width": 828,
-        "height": 466
-      }
+      "id": "2120182058656129304",
+      "url": "https://x.com/waylybaye/status/2120182058656129304",
+      "author_name": "Baye",
+      "author_handle": "waylybaye",
+      "text": "Fable 5.2 的代码品味很棒，review 它写的代码时，忍不住想鼓掌。",
+      "media": null
     },
-    "likes": 0,
+    "likes": 1,
     "retweets": 0,
-    "replies": 1
+    "replies": 0
   },
   "recent": [
     {
-      "id": "2120333543444549854",
-      "url": "https://x.com/NekoStranding/status/2120333543444549854",
+      "id": "2120430744782954660",
+      "url": "https://x.com/NekoStranding/status/2120430744782954660",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 11 01:51:25 +0000 2026",
-      "created_timestamp": 1794361885,
+      "created_at": "Wed Nov 11 08:17:39 +0000 2026",
+      "created_timestamp": 1794385059,
       "date_label": "Nov 11, 2026",
-      "text": "所以大肥鱼的祖上是谁啊，梁祖吗",
+      "text": "Gemini 4 Argon 的心态很棒，自己 review 刚写的研究文档时，经常忍不住给自己鼓掌",
       "media": null,
       "quote": {
-        "id": "2120163919222448636",
-        "url": "https://x.com/hsn8086/status/2120163919222448636",
-        "author_name": "hsn",
-        "author_handle": "hsn8086",
-        "text": "",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWxV17WaAAApH-C.jpg?name=medium",
-          "width": 828,
-          "height": 466
-        }
+        "id": "2120182058656129304",
+        "url": "https://x.com/waylybaye/status/2120182058656129304",
+        "author_name": "Baye",
+        "author_handle": "waylybaye",
+        "text": "Fable 5.2 的代码品味很棒，review 它写的代码时，忍不住想鼓掌。",
+        "media": null
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2120429230928621920",
+      "url": "https://x.com/NekoStranding/status/2120429230928621920",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Wed Nov 11 08:11:38 +0000 2026",
+      "created_timestamp": 1794384698,
+      "date_label": "Nov 11, 2026",
+      "text": "喵的，下次搞论文 rebuttal 搞几个产品经理过来\n\n这 reviewer 提的问题有时跟用户一样的，都是从他们自己的视角出发。完全被人牵着走就傻了，但不充分回应又不对",
+      "media": null,
+      "quote": null,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2120421431494488282",
+      "url": "https://x.com/NekoStranding/status/2120421431494488282",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Wed Nov 11 07:40:39 +0000 2026",
+      "created_timestamp": 1794382839,
+      "date_label": "Nov 11, 2026",
+      "text": "大拴理论，咱中国网民可是和主权级别的网络识别系统斗争了很多年的（",
+      "media": null,
+      "quote": {
+        "id": "2120020822261973304",
+        "url": "https://x.com/Hydrogen0E7/status/2120020822261973304",
+        "author_name": "HydrogenE7",
+        "author_handle": "Hydrogen0E7",
+        "text": "我也来凑个热闹，huangzheng2016/pvm，claude 防封大法！\n开发前后跨度一个多月了，同样的技术方案 不过基于 qemu 打包，跨平台支持\n内部 agent 可以操控端口映射，但是访问不了宿主环境\n个人从 0 建了三个 max 的 claude 账户，都是强制 kyc\n然后一个没封\n你别问，问就是稳！\nhttps://github.com/huangzheng2016/pvm",
+        "media": null
       },
       "likes": 0,
       "retweets": 0,
       "replies": 1
-    },
-    {
-      "id": "2120191825915121765",
-      "url": "https://x.com/NekoStranding/status/2120191825915121765",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 16:28:17 +0000 2026",
-      "created_timestamp": 1794328097,
-      "date_label": "Nov 10, 2026",
-      "text": "人工智能理论过于艰深，我闹不活了\n\n还是赶快回家研究大睡理论",
-      "media": null,
-      "quote": null,
-      "likes": 5,
-      "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2120191484888752590",
-      "url": "https://x.com/NekoStranding/status/2120191484888752590",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Tue Nov 10 16:26:55 +0000 2026",
-      "created_timestamp": 1794328015,
-      "date_label": "Nov 10, 2026",
-      "text": "我买的大冤种方案终于尝到甜头了！！！",
-      "media": null,
-      "quote": {
-        "id": "2120180103405580794",
-        "url": "https://x.com/leo114119/status/2120180103405580794",
-        "author_name": "Leo · Building w/ AI",
-        "author_handle": "leo114119",
-        "text": "Gemini 4 Carbon 已经正式在 Antigravity 上出现了\n\n可惜仍然只有 AI Ultra 的 用户可以使用\n\nAI Pro的用户至少还要等两天以上吧",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWxkZLgWMAA1hCH.png?name=medium",
-          "width": 863,
-          "height": 329
-        }
-      },
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0
     }
   ],
   "pinned": {
