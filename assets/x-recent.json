@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-11-11T09:25:05Z",
+  "updated_at": "2026-11-11T17:53:31Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120430744782954660",
-    "url": "https://x.com/NekoStranding/status/2120430744782954660",
+    "id": "2120456907374927984",
+    "url": "https://x.com/NekoStranding/status/2120456907374927984",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Wed Nov 11 08:17:39 +0000 2026",
-    "created_timestamp": 1794385059,
+    "created_at": "Wed Nov 11 10:01:37 +0000 2026",
+    "created_timestamp": 1794391297,
     "date_label": "Nov 11, 2026",
-    "text": "Gemini 4 Argon 的心态很棒，自己 review 刚写的研究文档时，经常忍不住给自己鼓掌",
+    "text": "大睡理论，还是要广泛研究，深入研究，不能浅尝辄止，不能偷工减料走捷径",
     "media": null,
-    "quote": {
-      "id": "2120182058656129304",
-      "url": "https://x.com/waylybaye/status/2120182058656129304",
-      "author_name": "Baye",
-      "author_handle": "waylybaye",
-      "text": "Fable 5.2 的代码品味很棒，review 它写的代码时，忍不住想鼓掌。",
-      "media": null
-    },
-    "likes": 1,
-    "retweets": 0,
+    "quote": null,
+    "likes": 0,
+    "retweets": 1,
     "replies": 0
   },
   "recent": [
+    {
+      "id": "2120456907374927984",
+      "url": "https://x.com/NekoStranding/status/2120456907374927984",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Wed Nov 11 10:01:37 +0000 2026",
+      "created_timestamp": 1794391297,
+      "date_label": "Nov 11, 2026",
+      "text": "大睡理论，还是要广泛研究，深入研究，不能浅尝辄止，不能偷工减料走捷径",
+      "media": null,
+      "quote": null,
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0
+    },
     {
       "id": "2120430744782954660",
       "url": "https://x.com/NekoStranding/status/2120430744782954660",
@@ -42,7 +50,7 @@
         "text": "Fable 5.2 的代码品味很棒，review 它写的代码时，忍不住想鼓掌。",
         "media": null
       },
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0
     },
@@ -58,28 +66,6 @@
       "media": null,
       "quote": null,
       "likes": 1,
-      "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2120421431494488282",
-      "url": "https://x.com/NekoStranding/status/2120421431494488282",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 11 07:40:39 +0000 2026",
-      "created_timestamp": 1794382839,
-      "date_label": "Nov 11, 2026",
-      "text": "大拴理论，咱中国网民可是和主权级别的网络识别系统斗争了很多年的（",
-      "media": null,
-      "quote": {
-        "id": "2120020822261973304",
-        "url": "https://x.com/Hydrogen0E7/status/2120020822261973304",
-        "author_name": "HydrogenE7",
-        "author_handle": "Hydrogen0E7",
-        "text": "我也来凑个热闹，huangzheng2016/pvm，claude 防封大法！\n开发前后跨度一个多月了，同样的技术方案 不过基于 qemu 打包，跨平台支持\n内部 agent 可以操控端口映射，但是访问不了宿主环境\n个人从 0 建了三个 max 的 claude 账户，都是强制 kyc\n然后一个没封\n你别问，问就是稳！\nhttps://github.com/huangzheng2016/pvm",
-        "media": null
-      },
-      "likes": 0,
       "retweets": 0,
       "replies": 1
     }
