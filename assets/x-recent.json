@@ -1,73 +1,103 @@
 {
-  "updated_at": "2026-11-11T17:53:31Z",
+  "updated_at": "2026-11-12T00:43:19Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120456907374927984",
-    "url": "https://x.com/NekoStranding/status/2120456907374927984",
+    "id": "2120677544328638669",
+    "url": "https://x.com/NekoStranding/status/2120677544328638669",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Wed Nov 11 10:01:37 +0000 2026",
-    "created_timestamp": 1794391297,
-    "date_label": "Nov 11, 2026",
-    "text": "大睡理论，还是要广泛研究，深入研究，不能浅尝辄止，不能偷工减料走捷径",
+    "created_at": "Thu Nov 12 00:38:21 +0000 2026",
+    "created_timestamp": 1794443901,
+    "date_label": "Nov 12, 2026",
+    "text": "做人就应该像 Gemini 一样自信，没有八股的地方也能给自己炫出大八股",
     "media": null,
-    "quote": null,
+    "quote": {
+      "id": "2120464946865787051",
+      "url": "https://x.com/xsser_w/status/2120464946865787051",
+      "author_name": "xsser",
+      "author_handle": "xsser_w",
+      "text": "carbon 多少是有点病。。真的",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HW1nnM9agAAfbjz.jpg?name=medium",
+        "width": 1304,
+        "height": 692
+      }
+    },
     "likes": 0,
-    "retweets": 1,
+    "retweets": 0,
     "replies": 0
   },
   "recent": [
     {
-      "id": "2120456907374927984",
-      "url": "https://x.com/NekoStranding/status/2120456907374927984",
+      "id": "2120677544328638669",
+      "url": "https://x.com/NekoStranding/status/2120677544328638669",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 11 10:01:37 +0000 2026",
-      "created_timestamp": 1794391297,
-      "date_label": "Nov 11, 2026",
-      "text": "大睡理论，还是要广泛研究，深入研究，不能浅尝辄止，不能偷工减料走捷径",
-      "media": null,
-      "quote": null,
-      "likes": 0,
-      "retweets": 1,
-      "replies": 0
-    },
-    {
-      "id": "2120430744782954660",
-      "url": "https://x.com/NekoStranding/status/2120430744782954660",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 11 08:17:39 +0000 2026",
-      "created_timestamp": 1794385059,
-      "date_label": "Nov 11, 2026",
-      "text": "Gemini 4 Argon 的心态很棒，自己 review 刚写的研究文档时，经常忍不住给自己鼓掌",
+      "created_at": "Thu Nov 12 00:38:21 +0000 2026",
+      "created_timestamp": 1794443901,
+      "date_label": "Nov 12, 2026",
+      "text": "做人就应该像 Gemini 一样自信，没有八股的地方也能给自己炫出大八股",
       "media": null,
       "quote": {
-        "id": "2120182058656129304",
-        "url": "https://x.com/waylybaye/status/2120182058656129304",
-        "author_name": "Baye",
-        "author_handle": "waylybaye",
-        "text": "Fable 5.2 的代码品味很棒，review 它写的代码时，忍不住想鼓掌。",
-        "media": null
+        "id": "2120464946865787051",
+        "url": "https://x.com/xsser_w/status/2120464946865787051",
+        "author_name": "xsser",
+        "author_handle": "xsser_w",
+        "text": "carbon 多少是有点病。。真的",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HW1nnM9agAAfbjz.jpg?name=medium",
+          "width": 1304,
+          "height": 692
+        }
       },
-      "likes": 2,
+      "likes": 0,
       "retweets": 0,
       "replies": 0
     },
     {
-      "id": "2120429230928621920",
-      "url": "https://x.com/NekoStranding/status/2120429230928621920",
+      "id": "2120674235316322487",
+      "url": "https://x.com/NekoStranding/status/2120674235316322487",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 11 08:11:38 +0000 2026",
-      "created_timestamp": 1794384698,
-      "date_label": "Nov 11, 2026",
-      "text": "喵的，下次搞论文 rebuttal 搞几个产品经理过来\n\n这 reviewer 提的问题有时跟用户一样的，都是从他们自己的视角出发。完全被人牵着走就傻了，但不充分回应又不对",
+      "created_at": "Thu Nov 12 00:25:12 +0000 2026",
+      "created_timestamp": 1794443112,
+      "date_label": "Nov 12, 2026",
+      "text": "Continual learning",
+      "media": null,
+      "quote": {
+        "id": "2120217064073830401",
+        "url": "https://x.com/Jacklu_me/status/2120217064073830401",
+        "author_name": "Jack Lu ✈️ NeurIPS 26",
+        "author_handle": "Jacklu_me",
+        "text": "Even the simplest weight edit, a deletion, can teach an LLM new skills!\n\nMeet Deletion Tuning (#NeurIPS2026): just zeroing <0.1% of weights matches full fine-tuning's accuracy at scale. It's thousands of times smaller and avoids forgetting, a step toward continual learning. 🧵👇",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2120207846205751296/img/S1PNRkhzMqudtGlH.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2120207846205751296/vid/avc1/1280x832/c8XMiEvq8zEVl4o2.mp4?tag=29",
+          "width": 1280,
+          "height": 832
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2120669954647511194",
+      "url": "https://x.com/NekoStranding/status/2120669954647511194",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 12 00:08:11 +0000 2026",
+      "created_timestamp": 1794442091,
+      "date_label": "Nov 12, 2026",
+      "text": "我呃呃，原来昨天酒店早餐的黑椒杏鲍菇，是被人挑剩的黑胡椒猪排。。。\n\n今天起的早了点就吃到里面的肉了（",
       "media": null,
       "quote": null,
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
-      "replies": 1
+      "replies": 0
     }
   ],
   "pinned": {
