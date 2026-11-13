@@ -1,34 +1,51 @@
 {
-  "updated_at": "2026-11-12T18:19:24Z",
+  "updated_at": "2026-11-13T01:04:19Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2120880233419350270",
-    "url": "https://x.com/NekoStranding/status/2120880233419350270",
+    "id": "2121038972944265616",
+    "url": "https://x.com/NekoStranding/status/2121038972944265616",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Thu Nov 12 14:03:46 +0000 2026",
-    "created_timestamp": 1794492226,
-    "date_label": "Nov 12, 2026",
-    "text": "野哥牛逼...",
+    "created_at": "Fri Nov 13 00:34:32 +0000 2026",
+    "created_timestamp": 1794530072,
+    "date_label": "Nov 13, 2026",
+    "text": "对 Hydrogen 的第一印象：确实很快，即便是 thinking level high 在客户端里面也是秒出。很聪明，继承了 Carbon / Argon 的灵活性，而且说话不罗嗦，这点非常好\n\n另外暂时没有遇到奇怪的八股文（恐怖极其人啥的），可能是用的还不够多\n\n说到价格：API 定价是 DeepSeek 的 5x（峰）/ 10x（谷）。但 benchmark 上的 per task cost 大约只比 ds 高 20%~30%。据说是因为做长任务的时候每一步的正确率更高，所以可以用更少的 token 解决问题",
     "media": null,
     "quote": {
-      "id": "2120738103493361853",
-      "url": "https://x.com/realsinya/status/2120738103493361853",
-      "author_name": "Sinya 李新野",
-      "author_handle": "realsinya",
-      "text": "I am a shareholder of Nvidia since 2015. It is the first stock I bought. I am also a gamer, a crypto investor, and a AI researcher. I own a 1080Ti, a 2080Ti, 3090, 4090, and multiple Pro 6000 GPUs. For me, Nvidia is not only the company giving me investment returns. It gave me so many joyful memories. And it is still making new memories for me every day.\n\nAs shareholders and customers, we want Jensen to stay as Nvidia's CEO. We can't let 3 or 5 deep state board members decide the fate of the world's greatest company. We must let shareholders vote.\n\nLET SHAREHOLDERS VOTE!\n\nIf you support us, please repost.",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HW5eQ1KaUAA8itf.jpg?name=medium",
-        "width": 1280,
-        "height": 960
-      }
+      "id": "2120940236805169182",
+      "url": "https://x.com/sundarpichai/status/2120940236805169182",
+      "author_name": "Sundar Pichai",
+      "author_handle": "sundarpichai",
+      "text": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic workflows.\n\nCompared to 3.8 Flash, it finishes tasks 2.5x faster. Also has 4 thinking levels, so you only wait and pay for the reasoning depth a task requires.\n\nRolling out today to all tiers of @GoogleAIStudio, the Gemini API, @GeminiApp, Search and paid Google AI Pro and Ultra subscribers in Google @Antigravity.",
+      "media": null
     },
     "likes": 0,
     "retweets": 0,
     "replies": 0
   },
   "recent": [
+    {
+      "id": "2121038972944265616",
+      "url": "https://x.com/NekoStranding/status/2121038972944265616",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Fri Nov 13 00:34:32 +0000 2026",
+      "created_timestamp": 1794530072,
+      "date_label": "Nov 13, 2026",
+      "text": "对 Hydrogen 的第一印象：确实很快，即便是 thinking level high 在客户端里面也是秒出。很聪明，继承了 Carbon / Argon 的灵活性，而且说话不罗嗦，这点非常好\n\n另外暂时没有遇到奇怪的八股文（恐怖极其人啥的），可能是用的还不够多\n\n说到价格：API 定价是 DeepSeek 的 5x（峰）/ 10x（谷）。但 benchmark 上的 per task cost 大约只比 ds 高 20%~30%。据说是因为做长任务的时候每一步的正确率更高，所以可以用更少的 token 解决问题",
+      "media": null,
+      "quote": {
+        "id": "2120940236805169182",
+        "url": "https://x.com/sundarpichai/status/2120940236805169182",
+        "author_name": "Sundar Pichai",
+        "author_handle": "sundarpichai",
+        "text": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic workflows.\n\nCompared to 3.8 Flash, it finishes tasks 2.5x faster. Also has 4 thinking levels, so you only wait and pay for the reasoning depth a task requires.\n\nRolling out today to all tiers of @GoogleAIStudio, the Gemini API, @GeminiApp, Search and paid Google AI Pro and Ultra subscribers in Google @Antigravity.",
+        "media": null
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2120880233419350270",
       "url": "https://x.com/NekoStranding/status/2120880233419350270",
@@ -77,33 +94,6 @@
       "likes": 2,
       "retweets": 0,
       "replies": 0
-    },
-    {
-      "id": "2120677544328638669",
-      "url": "https://x.com/NekoStranding/status/2120677544328638669",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 12 00:38:21 +0000 2026",
-      "created_timestamp": 1794443901,
-      "date_label": "Nov 12, 2026",
-      "text": "做人就应该像 Gemini 一样自信，没有八股的地方也能给自己炫出大八股",
-      "media": null,
-      "quote": {
-        "id": "2120464946865787051",
-        "url": "https://x.com/xsser_w/status/2120464946865787051",
-        "author_name": "xsser",
-        "author_handle": "xsser_w",
-        "text": "carbon 多少是有点病。。真的",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HW1nnM9agAAfbjz.jpg?name=medium",
-          "width": 1304,
-          "height": 692
-        }
-      },
-      "likes": 44,
-      "retweets": 0,
-      "replies": 5
     }
   ],
   "pinned": {
