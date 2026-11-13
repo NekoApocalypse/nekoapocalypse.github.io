@@ -1,29 +1,89 @@
 {
-  "updated_at": "2026-11-13T01:04:19Z",
+  "updated_at": "2026-11-13T09:30:35Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2121038972944265616",
-    "url": "https://x.com/NekoStranding/status/2121038972944265616",
+    "id": "2121102659151438181",
+    "url": "https://x.com/NekoStranding/status/2121102659151438181",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Fri Nov 13 00:34:32 +0000 2026",
-    "created_timestamp": 1794530072,
+    "created_at": "Fri Nov 13 04:47:36 +0000 2026",
+    "created_timestamp": 1794545256,
     "date_label": "Nov 13, 2026",
-    "text": "对 Hydrogen 的第一印象：确实很快，即便是 thinking level high 在客户端里面也是秒出。很聪明，继承了 Carbon / Argon 的灵活性，而且说话不罗嗦，这点非常好\n\n另外暂时没有遇到奇怪的八股文（恐怖极其人啥的），可能是用的还不够多\n\n说到价格：API 定价是 DeepSeek 的 5x（峰）/ 10x（谷）。但 benchmark 上的 per task cost 大约只比 ds 高 20%~30%。据说是因为做长任务的时候每一步的正确率更高，所以可以用更少的 token 解决问题",
+    "text": "哎？X 特现在可以看到套娃式转发了？",
     "media": null,
     "quote": {
-      "id": "2120940236805169182",
-      "url": "https://x.com/sundarpichai/status/2120940236805169182",
-      "author_name": "Sundar Pichai",
-      "author_handle": "sundarpichai",
-      "text": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic workflows.\n\nCompared to 3.8 Flash, it finishes tasks 2.5x faster. Also has 4 thinking levels, so you only wait and pay for the reasoning depth a task requires.\n\nRolling out today to all tiers of @GoogleAIStudio, the Gemini API, @GeminiApp, Search and paid Google AI Pro and Ultra subscribers in Google @Antigravity.",
-      "media": null
+      "id": "2120995941087879677",
+      "url": "https://x.com/zacharynado/status/2120995941087879677",
+      "author_name": "Zachary Nado",
+      "author_handle": "zacharynado",
+      "text": "message received, we fixed the problem of being behind",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HW9KkXKWAAEMtco.jpg?name=medium",
+        "width": 1920,
+        "height": 947
+      }
     },
     "likes": 0,
     "retweets": 0,
-    "replies": 0
+    "replies": 1
   },
   "recent": [
+    {
+      "id": "2121102659151438181",
+      "url": "https://x.com/NekoStranding/status/2121102659151438181",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Fri Nov 13 04:47:36 +0000 2026",
+      "created_timestamp": 1794545256,
+      "date_label": "Nov 13, 2026",
+      "text": "哎？X 特现在可以看到套娃式转发了？",
+      "media": null,
+      "quote": {
+        "id": "2120995941087879677",
+        "url": "https://x.com/zacharynado/status/2120995941087879677",
+        "author_name": "Zachary Nado",
+        "author_handle": "zacharynado",
+        "text": "message received, we fixed the problem of being behind",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HW9KkXKWAAEMtco.jpg?name=medium",
+          "width": 1920,
+          "height": 947
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2121098266813288476",
+      "url": "https://x.com/NekoStranding/status/2121098266813288476",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Fri Nov 13 04:30:09 +0000 2026",
+      "created_timestamp": 1794544209,
+      "date_label": "Nov 13, 2026",
+      "text": "Hydrogen 的审美实在线的，能力可能有些长短板",
+      "media": null,
+      "quote": {
+        "id": "2121054098753785915",
+        "url": "https://x.com/leo114119/status/2121054098753785915",
+        "author_name": "Leo · Building w/ AI",
+        "author_handle": "leo114119",
+        "text": "Gpt 6.1 Terra Vs Gemini 4 Hydrogen Vs Haiku 5.5\n\n可以非常明显的感知得到\n\nGemini 4 Hydrogen 在 3D 建模上有着明显的短板\n甚至比不过 Haiku 5.5\n\n所以如果是需要做 3D 建模的任务，不要选择Gemini 4 Hydrogen",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2120976563969597440/img/hkrQQ3JFf30V4s6u.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2120976563969597440/vid/avc1/1920x1080/ZPzQwT1PdfwA271x.mp4?tag=29",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2121038972944265616",
       "url": "https://x.com/NekoStranding/status/2121038972944265616",
@@ -42,58 +102,9 @@
         "text": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic workflows.\n\nCompared to 3.8 Flash, it finishes tasks 2.5x faster. Also has 4 thinking levels, so you only wait and pay for the reasoning depth a task requires.\n\nRolling out today to all tiers of @GoogleAIStudio, the Gemini API, @GeminiApp, Search and paid Google AI Pro and Ultra subscribers in Google @Antigravity.",
         "media": null
       },
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2120880233419350270",
-      "url": "https://x.com/NekoStranding/status/2120880233419350270",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 12 14:03:46 +0000 2026",
-      "created_timestamp": 1794492226,
-      "date_label": "Nov 12, 2026",
-      "text": "野哥牛逼...",
-      "media": null,
-      "quote": {
-        "id": "2120738103493361853",
-        "url": "https://x.com/realsinya/status/2120738103493361853",
-        "author_name": "Sinya 李新野",
-        "author_handle": "realsinya",
-        "text": "I am a shareholder of Nvidia since 2015. It is the first stock I bought. I am also a gamer, a crypto investor, and a AI researcher. I own a 1080Ti, a 2080Ti, 3090, 4090, and multiple Pro 6000 GPUs. For me, Nvidia is not only the company giving me investment returns. It gave me so many joyful memories. And it is still making new memories for me every day.\n\nAs shareholders and customers, we want Jensen to stay as Nvidia's CEO. We can't let 3 or 5 deep state board members decide the fate of the world's greatest company. We must let shareholders vote.\n\nLET SHAREHOLDERS VOTE!\n\nIf you support us, please repost.",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HW5eQ1KaUAA8itf.jpg?name=medium",
-          "width": 1280,
-          "height": 960
-        }
-      },
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2120869918396854753",
-      "url": "https://x.com/NekoStranding/status/2120869918396854753",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 12 13:22:47 +0000 2026",
-      "created_timestamp": 1794489767,
-      "date_label": "Nov 12, 2026",
-      "text": "你需要做三件事：\n\n和 GPT 商量\n写信给 Anthropic\n怀疑马斯克，但不要与他为敌",
-      "media": null,
-      "quote": {
-        "id": "2120794123817111639",
-        "url": "https://x.com/Fatal1tyV/status/2120794123817111639",
-        "author_name": "9小只饲养员恶师傅™",
-        "author_handle": "Fatal1tyV",
-        "text": "DS：开工之前还有三件事需要你拍板\n我：在老夫回答足下的问题之前，我也有一个问题请教足下…… #新三国天意侵蚀",
-        "media": null
-      },
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0
+      "replies": 1
     }
   ],
   "pinned": {
