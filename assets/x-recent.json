@@ -1,110 +1,83 @@
 {
-  "updated_at": "2026-11-13T09:30:35Z",
+  "updated_at": "2026-11-14T06:21:43Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2121102659151438181",
-    "url": "https://x.com/NekoStranding/status/2121102659151438181",
+    "id": "2121483793169322052",
+    "url": "https://x.com/NekoStranding/status/2121483793169322052",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Fri Nov 13 04:47:36 +0000 2026",
-    "created_timestamp": 1794545256,
-    "date_label": "Nov 13, 2026",
-    "text": "哎？X 特现在可以看到套娃式转发了？",
+    "created_at": "Sat Nov 14 06:02:06 +0000 2026",
+    "created_timestamp": 1794636126,
+    "date_label": "Nov 14, 2026",
+    "text": "说是集齐领域 x 大顶会就可以召唤 nature communications 了？",
     "media": null,
-    "quote": {
-      "id": "2120995941087879677",
-      "url": "https://x.com/zacharynado/status/2120995941087879677",
-      "author_name": "Zachary Nado",
-      "author_handle": "zacharynado",
-      "text": "message received, we fixed the problem of being behind",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HW9KkXKWAAEMtco.jpg?name=medium",
-        "width": 1920,
-        "height": 947
-      }
-    },
+    "quote": null,
     "likes": 0,
     "retweets": 0,
-    "replies": 1
+    "replies": 0
   },
   "recent": [
     {
-      "id": "2121102659151438181",
-      "url": "https://x.com/NekoStranding/status/2121102659151438181",
+      "id": "2121483793169322052",
+      "url": "https://x.com/NekoStranding/status/2121483793169322052",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Fri Nov 13 04:47:36 +0000 2026",
-      "created_timestamp": 1794545256,
-      "date_label": "Nov 13, 2026",
-      "text": "哎？X 特现在可以看到套娃式转发了？",
+      "created_at": "Sat Nov 14 06:02:06 +0000 2026",
+      "created_timestamp": 1794636126,
+      "date_label": "Nov 14, 2026",
+      "text": "说是集齐领域 x 大顶会就可以召唤 nature communications 了？",
       "media": null,
-      "quote": {
-        "id": "2120995941087879677",
-        "url": "https://x.com/zacharynado/status/2120995941087879677",
-        "author_name": "Zachary Nado",
-        "author_handle": "zacharynado",
-        "text": "message received, we fixed the problem of being behind",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HW9KkXKWAAEMtco.jpg?name=medium",
-          "width": 1920,
-          "height": 947
-        }
-      },
+      "quote": null,
       "likes": 0,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2121482667204206870",
+      "url": "https://x.com/NekoStranding/status/2121482667204206870",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 14 05:57:37 +0000 2026",
+      "created_timestamp": 1794635857,
+      "date_label": "Nov 14, 2026",
+      "text": "Carbon 确实是 AGI，名副其实了 √",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HXEFOnHaUAAcyhV.jpg?name=medium",
+        "width": 1080,
+        "height": 1068
+      },
+      "quote": null,
+      "likes": 3,
       "retweets": 0,
       "replies": 1
     },
     {
-      "id": "2121098266813288476",
-      "url": "https://x.com/NekoStranding/status/2121098266813288476",
+      "id": "2121469508322013598",
+      "url": "https://x.com/NekoStranding/status/2121469508322013598",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Fri Nov 13 04:30:09 +0000 2026",
-      "created_timestamp": 1794544209,
-      "date_label": "Nov 13, 2026",
-      "text": "Hydrogen 的审美实在线的，能力可能有些长短板",
+      "created_at": "Sat Nov 14 05:05:20 +0000 2026",
+      "created_timestamp": 1794632720,
+      "date_label": "Nov 14, 2026",
+      "text": "这不像是好话呀，人类多蠢。。",
       "media": null,
       "quote": {
-        "id": "2121054098753785915",
-        "url": "https://x.com/leo114119/status/2121054098753785915",
-        "author_name": "Leo · Building w/ AI",
-        "author_handle": "leo114119",
-        "text": "Gpt 6.1 Terra Vs Gemini 4 Hydrogen Vs Haiku 5.5\n\n可以非常明显的感知得到\n\nGemini 4 Hydrogen 在 3D 建模上有着明显的短板\n甚至比不过 Haiku 5.5\n\n所以如果是需要做 3D 建模的任务，不要选择Gemini 4 Hydrogen",
+        "id": "2119794774693826877",
+        "url": "https://x.com/ysoke145/status/2119794774693826877",
+        "author_name": "ysoke",
+        "author_handle": "ysoke145",
+        "text": "一位谷歌员工表示，Gemini 4 Hyperion“与人类无法区分”\n\n哈基米居然要成为最拟人的模型了吗",
         "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2120976563969597440/img/hkrQQ3JFf30V4s6u.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2120976563969597440/vid/avc1/1920x1080/ZPzQwT1PdfwA271x.mp4?tag=29",
-          "width": 1920,
-          "height": 1080
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HWsGGjcboAAocR3.jpg?name=medium",
+          "width": 1254,
+          "height": 1254
         }
       },
       "likes": 2,
       "retweets": 0,
       "replies": 0
-    },
-    {
-      "id": "2121038972944265616",
-      "url": "https://x.com/NekoStranding/status/2121038972944265616",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Fri Nov 13 00:34:32 +0000 2026",
-      "created_timestamp": 1794530072,
-      "date_label": "Nov 13, 2026",
-      "text": "对 Hydrogen 的第一印象：确实很快，即便是 thinking level high 在客户端里面也是秒出。很聪明，继承了 Carbon / Argon 的灵活性，而且说话不罗嗦，这点非常好\n\n另外暂时没有遇到奇怪的八股文（恐怖极其人啥的），可能是用的还不够多\n\n说到价格：API 定价是 DeepSeek 的 5x（峰）/ 10x（谷）。但 benchmark 上的 per task cost 大约只比 ds 高 20%~30%。据说是因为做长任务的时候每一步的正确率更高，所以可以用更少的 token 解决问题",
-      "media": null,
-      "quote": {
-        "id": "2120940236805169182",
-        "url": "https://x.com/sundarpichai/status/2120940236805169182",
-        "author_name": "Sundar Pichai",
-        "author_handle": "sundarpichai",
-        "text": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic workflows.\n\nCompared to 3.8 Flash, it finishes tasks 2.5x faster. Also has 4 thinking levels, so you only wait and pay for the reasoning depth a task requires.\n\nRolling out today to all tiers of @GoogleAIStudio, the Gemini API, @GeminiApp, Search and paid Google AI Pro and Ultra subscribers in Google @Antigravity.",
-        "media": null
-      },
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
     }
   ],
   "pinned": {
@@ -124,7 +97,7 @@
       "height": 1570
     },
     "quote": null,
-    "likes": 108,
+    "likes": 109,
     "retweets": 10,
     "replies": 23
   }
