@@ -1,22 +1,88 @@
 {
-  "updated_at": "2026-11-14T06:21:43Z",
+  "updated_at": "2026-11-14T15:04:10Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2121483793169322052",
-    "url": "https://x.com/NekoStranding/status/2121483793169322052",
+    "id": "2121553957713752356",
+    "url": "https://x.com/NekoStranding/status/2121553957713752356",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sat Nov 14 06:02:06 +0000 2026",
-    "created_timestamp": 1794636126,
+    "created_at": "Sat Nov 14 10:40:54 +0000 2026",
+    "created_timestamp": 1794652854,
     "date_label": "Nov 14, 2026",
-    "text": "说是集齐领域 x 大顶会就可以召唤 nature communications 了？",
+    "text": "这个真的可以有。之前薅谷歌的 Vertex AI 羊毛 API，结果经常用过量倒给 Google 付钱。。",
     "media": null,
-    "quote": null,
-    "likes": 0,
+    "quote": {
+      "id": "2120018917934669852",
+      "url": "https://x.com/mizorewww/status/2120018917934669852",
+      "author_name": "雨夹雪❄️",
+      "author_handle": "mizorewww",
+      "text": "谷歌colab可以开96G的RTX Pro 6000.\n\n这样子的话，可以跑GLM 5.3 Flash 的破限版，或者Qwen 3.8 Flash Next的破限版  这个时代有一个破限的AI还是很好用的哈哈哈哈\n\n如果你薅到了 400元的Ultra 20x羊毛，你每个月就可以用250小时的RTX Pro 6000，每天8个小时，我觉得是相当充足了",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HWvRu5caYAAnhOE.jpg?name=medium",
+        "width": 3930,
+        "height": 2324
+      }
+    },
+    "likes": 5,
     "retweets": 0,
     "replies": 0
   },
   "recent": [
+    {
+      "id": "2121553957713752356",
+      "url": "https://x.com/NekoStranding/status/2121553957713752356",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 14 10:40:54 +0000 2026",
+      "created_timestamp": 1794652854,
+      "date_label": "Nov 14, 2026",
+      "text": "这个真的可以有。之前薅谷歌的 Vertex AI 羊毛 API，结果经常用过量倒给 Google 付钱。。",
+      "media": null,
+      "quote": {
+        "id": "2120018917934669852",
+        "url": "https://x.com/mizorewww/status/2120018917934669852",
+        "author_name": "雨夹雪❄️",
+        "author_handle": "mizorewww",
+        "text": "谷歌colab可以开96G的RTX Pro 6000.\n\n这样子的话，可以跑GLM 5.3 Flash 的破限版，或者Qwen 3.8 Flash Next的破限版  这个时代有一个破限的AI还是很好用的哈哈哈哈\n\n如果你薅到了 400元的Ultra 20x羊毛，你每个月就可以用250小时的RTX Pro 6000，每天8个小时，我觉得是相当充足了",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HWvRu5caYAAnhOE.jpg?name=medium",
+          "width": 3930,
+          "height": 2324
+        }
+      },
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2121489181470052386",
+      "url": "https://x.com/NekoStranding/status/2121489181470052386",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 14 06:23:30 +0000 2026",
+      "created_timestamp": 1794637410,
+      "date_label": "Nov 14, 2026",
+      "text": "那可真是胆子肥嘟嘟的，勇敢的人先享受生活\n\n想到一件事就做一件事，不要多问自己应该做什么，能不能做好。事情做完了答案自己会掉出来\n\n执行 -> 标注 -> 涌现",
+      "media": null,
+      "quote": {
+        "id": "2121327276805525905",
+        "url": "https://x.com/lzminsky/status/2121327276805525905",
+        "author_name": "Lauris",
+        "author_handle": "lzminsky",
+        "text": "",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HXB36UQXIAA2s8e.jpg?name=medium",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2121483793169322052",
       "url": "https://x.com/NekoStranding/status/2121483793169322052",
@@ -28,54 +94,7 @@
       "text": "说是集齐领域 x 大顶会就可以召唤 nature communications 了？",
       "media": null,
       "quote": null,
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2121482667204206870",
-      "url": "https://x.com/NekoStranding/status/2121482667204206870",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 14 05:57:37 +0000 2026",
-      "created_timestamp": 1794635857,
-      "date_label": "Nov 14, 2026",
-      "text": "Carbon 确实是 AGI，名副其实了 √",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HXEFOnHaUAAcyhV.jpg?name=medium",
-        "width": 1080,
-        "height": 1068
-      },
-      "quote": null,
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2121469508322013598",
-      "url": "https://x.com/NekoStranding/status/2121469508322013598",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 14 05:05:20 +0000 2026",
-      "created_timestamp": 1794632720,
-      "date_label": "Nov 14, 2026",
-      "text": "这不像是好话呀，人类多蠢。。",
-      "media": null,
-      "quote": {
-        "id": "2119794774693826877",
-        "url": "https://x.com/ysoke145/status/2119794774693826877",
-        "author_name": "ysoke",
-        "author_handle": "ysoke145",
-        "text": "一位谷歌员工表示，Gemini 4 Hyperion“与人类无法区分”\n\n哈基米居然要成为最拟人的模型了吗",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HWsGGjcboAAocR3.jpg?name=medium",
-          "width": 1254,
-          "height": 1254
-        }
-      },
-      "likes": 2,
+      "likes": 1,
       "retweets": 0,
       "replies": 0
     }
