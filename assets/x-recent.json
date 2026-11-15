@@ -1,34 +1,51 @@
 {
-  "updated_at": "2026-11-15T01:54:40Z",
+  "updated_at": "2026-11-15T09:25:28Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2121770290309186006",
-    "url": "https://x.com/NekoStranding/status/2121770290309186006",
+    "id": "2121882069731053646",
+    "url": "https://x.com/NekoStranding/status/2121882069731053646",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sun Nov 15 01:00:32 +0000 2026",
-    "created_timestamp": 1794704432,
+    "created_at": "Sun Nov 15 08:24:42 +0000 2026",
+    "created_timestamp": 1794731082,
     "date_label": "Nov 15, 2026",
-    "text": "Gemini 4 Hydrogen 通过不停的思考烧 token 可以在写代码的 Cursor Bench 上干掉 Fable 5.2\n\n自信的模型可以自我超越 🤣",
+    "text": "这个非常的 impressive，证明 Carbon 级别的模型已经具备了三维层面的设计、构建和合理性检查的全方位能力",
     "media": null,
     "quote": {
-      "id": "2121538515909628111",
-      "url": "https://x.com/Beamsters1/status/2121538515909628111",
-      "author_name": "Beamsters",
-      "author_handle": "Beamsters1",
-      "text": "Gemini 4 Hydrogen is a very strange model. Its success rate started very low, even lower than Haiku's low, but through burning reasoning tokens, it climbed VERY effectively and even beat Fable 5.2 max in CursorBench 4.0 at the end.\n\nVery interesting indeed.",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HXE3AHsa4AAVElc.jpg?name=medium",
-        "width": 2260,
-        "height": 1300
-      }
+      "id": "2121803402468573494",
+      "url": "https://x.com/madawei2699/status/2121803402468573494",
+      "author_name": "Dawei Ma",
+      "author_handle": "madawei2699",
+      "text": "https://www.bmpi.dev/dev/agent-3d-world-building/",
+      "media": null
     },
-    "likes": 5,
-    "retweets": 1,
+    "likes": 1,
+    "retweets": 0,
     "replies": 0
   },
   "recent": [
+    {
+      "id": "2121882069731053646",
+      "url": "https://x.com/NekoStranding/status/2121882069731053646",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sun Nov 15 08:24:42 +0000 2026",
+      "created_timestamp": 1794731082,
+      "date_label": "Nov 15, 2026",
+      "text": "这个非常的 impressive，证明 Carbon 级别的模型已经具备了三维层面的设计、构建和合理性检查的全方位能力",
+      "media": null,
+      "quote": {
+        "id": "2121803402468573494",
+        "url": "https://x.com/madawei2699/status/2121803402468573494",
+        "author_name": "Dawei Ma",
+        "author_handle": "madawei2699",
+        "text": "https://www.bmpi.dev/dev/agent-3d-world-building/",
+        "media": null
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2121770290309186006",
       "url": "https://x.com/NekoStranding/status/2121770290309186006",
@@ -52,9 +69,9 @@
           "height": 1300
         }
       },
-      "likes": 5,
-      "retweets": 1,
-      "replies": 0
+      "likes": 28,
+      "retweets": 3,
+      "replies": 2
     },
     {
       "id": "2121747497764913304",
@@ -82,28 +99,6 @@
       "likes": 0,
       "retweets": 1,
       "replies": 0
-    },
-    {
-      "id": "2121739142157787596",
-      "url": "https://x.com/NekoStranding/status/2121739142157787596",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 14 22:56:46 +0000 2026",
-      "created_timestamp": 1794697006,
-      "date_label": "Nov 14, 2026",
-      "text": "那氢的子版本是不是氕氘氚...",
-      "media": null,
-      "quote": {
-        "id": "2121605998951718931",
-        "url": "https://x.com/DJ_HYSNS/status/2121605998951718931",
-        "author_name": "ヒヤシンスちゃん",
-        "author_handle": "DJ_HYSNS",
-        "text": "中国語で流れてくるGeminiの話、Hydrogenが氢でArgonが氩でKryptonが氪なの分かりにくすぎて神",
-        "media": null
-      },
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
     }
   ],
   "pinned": {
