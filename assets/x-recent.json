@@ -1,35 +1,51 @@
 {
-  "updated_at": "2026-11-16T18:31:54Z",
+  "updated_at": "2026-11-17T02:55:21Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2122325817531547836",
-    "url": "https://x.com/NekoStranding/status/2122325817531547836",
+    "id": "2122434251442598394",
+    "url": "https://x.com/NekoStranding/status/2122434251442598394",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Mon Nov 16 13:48:00 +0000 2026",
-    "created_timestamp": 1794836880,
+    "created_at": "Mon Nov 16 20:58:53 +0000 2026",
+    "created_timestamp": 1794862733,
     "date_label": "Nov 16, 2026",
-    "text": "🤔 这是发通稿了",
+    "text": "土豆姐一直在讲一个非常第一性原理的故事：\n\n1. 代码必然会 slop\n2. AI 会写天量的代码，人不可能逐行看\n3. 在前两个前提下，如何充分发挥 AI 写代码的效率？\n\n所以要靠可靠的证明体系，和正确的项目上下文。工程师从一个游戏玩家，变成了设计成千上万个 Agent 的游戏体验的设计师",
     "media": null,
     "quote": {
-      "id": "2122018790653231113",
-      "url": "https://x.com/varun_mathur/status/2122018790653231113",
-      "author_name": "Varun",
-      "author_handle": "varun_mathur",
-      "text": "I ran a PageRank-driven analysis on all recent news coverage related to Jensen, and traced how the New York Times shaped the entirety of this narrative: https://jensencoverage.vercel.app/\n\n--\nNVIDIA has lost over $1 trillion in market value since the first New York Times story broke about Jensen. I dug deeper to analyze how the news originated and spread, running a swarm of agents which analyzed almost 2000 stories, across 40 US and European news outlets, and applying PageRank to understand how they cited each other. \n\nCore findings: \n- Primary news driver: NYT, with 88 stories, most-cited\n- Volume drivers: WSJ - 99 stories; Bloomberg - 140 stories; NY Post - 68 stories\n\nAll of this started from unknown sources who gave information to the NYT, which then ran the spy story (still unproven), and it was then picked up in other news publications. Curiously, even after that story, there was a 9 day period of extremely low volume reporting (28 stories only), after which there was a sudden spike after Jensen's own letter to NVIDIA staff. NYT then had multiple sequential spy and affair stories, which fed a wave of further news coverage. It was the originating hub of negative Jensen coverage. Multiple outlets since then had an explosion in stories about him starting earlier this week as well. \n\nOverall, as you see this data, you will observe this was an exceptional media onslaught against Jensen with sharply negative coverage about him, his work, style, and family. Infact, it was brutal, and unlike coverage in the past of CEOs who have had affairs (such as Intel CEO in 2018). For eg, NYT ran just 2 stories about Intel's CEO who had an affair with his employee, compared to 88 on Jensen! Why ? \n\nThis analysis used a technique of how Google originally ranked webpages, using PageRank, and does deep dive link analysis so you can view how the news spread. What struck here was that it did not matter if there were proven facts or credible sources: the outcome here was pre-decided. The news was making the reality which it wanted. \n\nDuring this period, NVIDIA has lost $1.27 trillion in market value since the first story broke. On Nov 12th-13th, further news broke that both the US Justice Department, and Singapore - are unable to even conclude the spy allegation. \n\nThis has been a catastrophic attack on one of the hardest working founders in modern times, who took an idea from a Denny's booth, through multiple instances of almost going out of business, to building the foundation of the entire modern world with how the NVIDIA story played out. Thanks to Jensen, we have hope that many formerly incurable diseases will get solved by AI, that quality of life will and have improved for billions around the world. \n\nNow I do not know if he will come back as CEO or not, but I hope he does. What happened to him here, and to the wider industry, was not fair.",
-      "media": {
-        "type": "video",
-        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2122017891646164992/img/FW8cIJ8h3K2C_hAV.jpg?format=jpg&name=medium",
-        "video_url": "https://video.twimg.com/amplify_video/2122017891646164992/vid/avc1/1920x1040/3anOdb9rN9YovKck.mp4?tag=29",
-        "width": 1920,
-        "height": 1040
-      }
+      "id": "2121673563489140863",
+      "url": "https://x.com/poteto/status/2121673563489140863",
+      "author_name": "lauren",
+      "author_handle": "poteto",
+      "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g",
+      "media": null
     },
-    "likes": 1,
-    "retweets": 0,
-    "replies": 0
+    "likes": 93,
+    "retweets": 4,
+    "replies": 9
   },
   "recent": [
+    {
+      "id": "2122434251442598394",
+      "url": "https://x.com/NekoStranding/status/2122434251442598394",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Mon Nov 16 20:58:53 +0000 2026",
+      "created_timestamp": 1794862733,
+      "date_label": "Nov 16, 2026",
+      "text": "土豆姐一直在讲一个非常第一性原理的故事：\n\n1. 代码必然会 slop\n2. AI 会写天量的代码，人不可能逐行看\n3. 在前两个前提下，如何充分发挥 AI 写代码的效率？\n\n所以要靠可靠的证明体系，和正确的项目上下文。工程师从一个游戏玩家，变成了设计成千上万个 Agent 的游戏体验的设计师",
+      "media": null,
+      "quote": {
+        "id": "2121673563489140863",
+        "url": "https://x.com/poteto/status/2121673563489140863",
+        "author_name": "lauren",
+        "author_handle": "poteto",
+        "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g",
+        "media": null
+      },
+      "likes": 93,
+      "retweets": 4,
+      "replies": 9
+    },
     {
       "id": "2122325817531547836",
       "url": "https://x.com/NekoStranding/status/2122325817531547836",
@@ -81,36 +97,9 @@
           "height": 690
         }
       },
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1
-    },
-    {
-      "id": "2122282601859993716",
-      "url": "https://x.com/NekoStranding/status/2122282601859993716",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 16 10:56:17 +0000 2026",
-      "created_timestamp": 1794826577,
-      "date_label": "Nov 16, 2026",
-      "text": "《正向对齐：促进人类繁荣的人工智能》\n\n这难道就是 Gemini 能做出说人话的模型的焚决？有没有可能，之前的对齐思路全是错的？所谓的安全、防护、护栏，只会让 AI 变得讨好、八股、过度防御、偷摸作弊。只有正向的、促进成功和美德的对齐，才能解决根本问题\n\n整天念「安全」当诵经的都是神棍",
-      "media": null,
-      "quote": {
-        "id": "2122224249347997847",
-        "url": "https://x.com/HowToPrompt__/status/2122224249347997847",
-        "author_name": "How To Prompt",
-        "author_handle": "HowToPrompt__",
-        "text": "Google DeepMind researchers admitted AI alignment has been a scam the whole time..\n\nThey published an insane paper called “positive alignment\" and it is a massive paradigm shift.\n\nRight now, AI alignment is purely defensive..\n\nWe just train models to \"not be unsafe.\" they decline dangerous requests, avoid slurs, and stay inside strict guardrails.\n\nbut this leaves ai in a weird, directionless middle ground where models just become sycophants, flattering you and optimizing for engagement rather than actually helping you.\n\nthis new paper argues that avoiding harm is not enough. we have to train ai specifically for \"human flourishing\".\n\nhere is how they want to rebuild the infrastructure of AI:\n\n- ditching sycophancy: current preference-based training favors flattery over truth, but positive alignment optimizes for actual insight and human agency\n\n- polycentric governance: instead of one massive tech company acting as a moral chokepoint, the future is decentralized oversight where communities customize and adapt models to their own values\n\n- longitudinal outcomes: moving away from short-term vibe checks to actually measuring long-term human resilience, skill mastery, and autonomy over time\n\nthe era of \"harmless but useless\" AI is officially ending..\n\nwe are watching ai transition from a chatbot into living infrastructure for human well-being.\n\nthe paper is a dense read, but the implications are wild.",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HXOnrYGbcAAcYe2.png?name=medium",
-          "width": 1122,
-          "height": 1342
-        }
-      },
-      "likes": 10,
-      "retweets": 0,
-      "replies": 2
     }
   ],
   "pinned": {
