@@ -1,105 +1,112 @@
 {
-  "updated_at": "2026-11-17T02:55:21Z",
+  "updated_at": "2026-11-17T13:25:10Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2122434251442598394",
-    "url": "https://x.com/NekoStranding/status/2122434251442598394",
+    "id": "2122632027870806053",
+    "url": "https://x.com/NekoStranding/status/2122632027870806053",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Mon Nov 16 20:58:53 +0000 2026",
-    "created_timestamp": 1794862733,
-    "date_label": "Nov 16, 2026",
-    "text": "土豆姐一直在讲一个非常第一性原理的故事：\n\n1. 代码必然会 slop\n2. AI 会写天量的代码，人不可能逐行看\n3. 在前两个前提下，如何充分发挥 AI 写代码的效率？\n\n所以要靠可靠的证明体系，和正确的项目上下文。工程师从一个游戏玩家，变成了设计成千上万个 Agent 的游戏体验的设计师",
-    "media": null,
-    "quote": {
-      "id": "2121673563489140863",
-      "url": "https://x.com/poteto/status/2121673563489140863",
-      "author_name": "lauren",
-      "author_handle": "poteto",
-      "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g",
-      "media": null
+    "created_at": "Tue Nov 17 10:04:46 +0000 2026",
+    "created_timestamp": 1794909886,
+    "date_label": "Nov 17, 2026",
+    "text": "有一个人前来买 token",
+    "media": {
+      "type": "photo",
+      "thumb_url": "https://pbs.twimg.com/media/HXUakwDbkAA7jiI.jpg?name=medium",
+      "width": 3094,
+      "height": 1874
     },
-    "likes": 93,
-    "retweets": 4,
-    "replies": 9
+    "quote": {
+      "id": "2122585266544382406",
+      "url": "https://x.com/tison1096/status/2122585266544382406",
+      "author_name": "tison",
+      "author_handle": "tison1096",
+      "text": "我：说！你是不是偷我 Token 了 😠😡🤯\n\nAntigravity：大哥你听我搅拌 >w<",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HXTvyZbbMAAD8gf.jpg?name=medium",
+        "width": 1413,
+        "height": 4096
+      }
+    },
+    "likes": 2,
+    "retweets": 0,
+    "replies": 0
   },
   "recent": [
     {
-      "id": "2122434251442598394",
-      "url": "https://x.com/NekoStranding/status/2122434251442598394",
+      "id": "2122632027870806053",
+      "url": "https://x.com/NekoStranding/status/2122632027870806053",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 16 20:58:53 +0000 2026",
-      "created_timestamp": 1794862733,
-      "date_label": "Nov 16, 2026",
-      "text": "土豆姐一直在讲一个非常第一性原理的故事：\n\n1. 代码必然会 slop\n2. AI 会写天量的代码，人不可能逐行看\n3. 在前两个前提下，如何充分发挥 AI 写代码的效率？\n\n所以要靠可靠的证明体系，和正确的项目上下文。工程师从一个游戏玩家，变成了设计成千上万个 Agent 的游戏体验的设计师",
-      "media": null,
-      "quote": {
-        "id": "2121673563489140863",
-        "url": "https://x.com/poteto/status/2121673563489140863",
-        "author_name": "lauren",
-        "author_handle": "poteto",
-        "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://youtu.be/O_zcc6Xl12g",
-        "media": null
+      "created_at": "Tue Nov 17 10:04:46 +0000 2026",
+      "created_timestamp": 1794909886,
+      "date_label": "Nov 17, 2026",
+      "text": "有一个人前来买 token",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HXUakwDbkAA7jiI.jpg?name=medium",
+        "width": 3094,
+        "height": 1874
       },
-      "likes": 93,
-      "retweets": 4,
-      "replies": 9
-    },
-    {
-      "id": "2122325817531547836",
-      "url": "https://x.com/NekoStranding/status/2122325817531547836",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 16 13:48:00 +0000 2026",
-      "created_timestamp": 1794836880,
-      "date_label": "Nov 16, 2026",
-      "text": "🤔 这是发通稿了",
-      "media": null,
       "quote": {
-        "id": "2122018790653231113",
-        "url": "https://x.com/varun_mathur/status/2122018790653231113",
-        "author_name": "Varun",
-        "author_handle": "varun_mathur",
-        "text": "I ran a PageRank-driven analysis on all recent news coverage related to Jensen, and traced how the New York Times shaped the entirety of this narrative: https://jensencoverage.vercel.app/\n\n--\nNVIDIA has lost over $1 trillion in market value since the first New York Times story broke about Jensen. I dug deeper to analyze how the news originated and spread, running a swarm of agents which analyzed almost 2000 stories, across 40 US and European news outlets, and applying PageRank to understand how they cited each other. \n\nCore findings: \n- Primary news driver: NYT, with 88 stories, most-cited\n- Volume drivers: WSJ - 99 stories; Bloomberg - 140 stories; NY Post - 68 stories\n\nAll of this started from unknown sources who gave information to the NYT, which then ran the spy story (still unproven), and it was then picked up in other news publications. Curiously, even after that story, there was a 9 day period of extremely low volume reporting (28 stories only), after which there was a sudden spike after Jensen's own letter to NVIDIA staff. NYT then had multiple sequential spy and affair stories, which fed a wave of further news coverage. It was the originating hub of negative Jensen coverage. Multiple outlets since then had an explosion in stories about him starting earlier this week as well. \n\nOverall, as you see this data, you will observe this was an exceptional media onslaught against Jensen with sharply negative coverage about him, his work, style, and family. Infact, it was brutal, and unlike coverage in the past of CEOs who have had affairs (such as Intel CEO in 2018). For eg, NYT ran just 2 stories about Intel's CEO who had an affair with his employee, compared to 88 on Jensen! Why ? \n\nThis analysis used a technique of how Google originally ranked webpages, using PageRank, and does deep dive link analysis so you can view how the news spread. What struck here was that it did not matter if there were proven facts or credible sources: the outcome here was pre-decided. The news was making the reality which it wanted. \n\nDuring this period, NVIDIA has lost $1.27 trillion in market value since the first story broke. On Nov 12th-13th, further news broke that both the US Justice Department, and Singapore - are unable to even conclude the spy allegation. \n\nThis has been a catastrophic attack on one of the hardest working founders in modern times, who took an idea from a Denny's booth, through multiple instances of almost going out of business, to building the foundation of the entire modern world with how the NVIDIA story played out. Thanks to Jensen, we have hope that many formerly incurable diseases will get solved by AI, that quality of life will and have improved for billions around the world. \n\nNow I do not know if he will come back as CEO or not, but I hope he does. What happened to him here, and to the wider industry, was not fair.",
+        "id": "2122585266544382406",
+        "url": "https://x.com/tison1096/status/2122585266544382406",
+        "author_name": "tison",
+        "author_handle": "tison1096",
+        "text": "我：说！你是不是偷我 Token 了 😠😡🤯\n\nAntigravity：大哥你听我搅拌 >w<",
         "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2122017891646164992/img/FW8cIJ8h3K2C_hAV.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2122017891646164992/vid/avc1/1920x1040/3anOdb9rN9YovKck.mp4?tag=29",
-          "width": 1920,
-          "height": 1040
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HXTvyZbbMAAD8gf.jpg?name=medium",
+          "width": 1413,
+          "height": 4096
         }
       },
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0
     },
     {
-      "id": "2122292488824369561",
-      "url": "https://x.com/NekoStranding/status/2122292488824369561",
+      "id": "2122631570972606577",
+      "url": "https://x.com/NekoStranding/status/2122631570972606577",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 16 11:35:34 +0000 2026",
-      "created_timestamp": 1794828934,
-      "date_label": "Nov 16, 2026",
-      "text": "Gemini Argon -> Carbon -> Hydrogen -> Krypton -> Oxygen\n\n然后又冒出来个 Helix...\n\n谷歌这什么神秘的命名法则...",
+      "created_at": "Tue Nov 17 10:02:57 +0000 2026",
+      "created_timestamp": 1794909777,
+      "date_label": "Nov 17, 2026",
+      "text": "是真的，我的个人 Agent 已经完全替换成 Hydrogen 了\n\n回复和解答的速度比 DeepSeek 4.1 Flash 还快，这是之前完全没想象到的",
       "media": null,
       "quote": {
-        "id": "2121979283069681865",
-        "url": "https://x.com/ohouhou717/status/2121979283069681865",
-        "author_name": "喵老师",
-        "author_handle": "ohouhou717",
-        "text": "刚看到有人扒出了 Gemini 4 Helix 的底牌，我直接看傻了。\n\n输入 0.3 刀，输出 2.5 刀，缓存更是只要 0.03 刀？这哪是发模型，这是在做慈善吧！\n\n据说不仅比 Hydrogen 还快，还继承了 Carbon 的精髓。\n\n谷歌这是准备拿个“预算怪兽”把同行的桌子彻底掀了啊，\n\n坐等下周发布🤯。",
+        "id": "2122525261061345743",
+        "url": "https://x.com/leo114119/status/2122525261061345743",
+        "author_name": "Leo · Building w/ AI",
+        "author_handle": "leo114119",
+        "text": "Gemini 4 Hydrogen的速度真的相当快相当舒服。。\n\n基本上能稳定在 200-300......\n\n平替 Deepseek v4.1 Flash一点毛病没有。。。",
         "media": {
           "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HXKGRAaaYAASVcc.jpg?name=medium",
-          "width": 1227,
-          "height": 690
+          "thumb_url": "https://pbs.twimg.com/media/HXS5VefbMAAbh7G.jpg?name=medium",
+          "width": 951,
+          "height": 490
         }
       },
-      "likes": 3,
+      "likes": 6,
       "retweets": 0,
       "replies": 1
+    },
+    {
+      "id": "2122631146907619717",
+      "url": "https://x.com/NekoStranding/status/2122631146907619717",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Tue Nov 17 10:01:16 +0000 2026",
+      "created_timestamp": 1794909676,
+      "date_label": "Nov 17, 2026",
+      "text": "Dev Agent 你要做的事情有三件：\n\n找 reviewer agent商量\n给 human maintainer 发消息\n怀疑现有架构，但不要与它为敌",
+      "media": null,
+      "quote": null,
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0
     }
   ],
   "pinned": {
