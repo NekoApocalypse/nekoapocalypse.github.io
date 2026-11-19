@@ -1,96 +1,88 @@
 {
-  "updated_at": "2026-11-18T17:15:19Z",
+  "updated_at": "2026-11-19T10:19:45Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2122986024691453958",
-    "url": "https://x.com/NekoStranding/status/2122986024691453958",
+    "id": "2123351785096257810",
+    "url": "https://x.com/NekoStranding/status/2123351785096257810",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Wed Nov 18 09:31:26 +0000 2026",
-    "created_timestamp": 1794994286,
-    "date_label": "Nov 18, 2026",
-    "text": "卧槽？Google 又来一个新模型？四连发了已经，杀疯了\n\n命名也越来越神秘了，元素周期表已经不存在了（",
-    "media": null,
-    "quote": {
-      "id": "2122964520230658523",
-      "url": "https://x.com/lyraxana/status/2122964520230658523",
-      "author_name": "lyra",
-      "author_handle": "lyraxana",
-      "text": "Gemini 4 Neon has been added to Antigravity CLI as an Pro orchestrator model.",
-      "media": {
-        "type": "photo",
-        "thumb_url": "https://pbs.twimg.com/media/HXZI-YXWkAAZClB.jpg?name=medium",
-        "width": 1040,
-        "height": 1412
-      }
+    "created_at": "Thu Nov 19 09:44:50 +0000 2026",
+    "created_timestamp": 1795081490,
+    "date_label": "Nov 19, 2026",
+    "text": "啊？我 2023 年给 Polars 提交的 issue，今天被他们给修复了...\n\n三年前啊我的天，有生之年了\n\nPolars 是一个比 Pandas 快 100x 的 DataFrame 引擎，用 Rust 写的，超级并发。在 2023 年还属于新玩意...\n\nhttps://github.com/pola-rs/polars/issues/12952",
+    "media": {
+      "type": "photo",
+      "thumb_url": "https://pbs.twimg.com/media/HXepClfaQAEWg1r.jpg?name=medium",
+      "width": 1491,
+      "height": 662
     },
-    "likes": 6,
+    "quote": null,
+    "likes": 7,
     "retweets": 0,
-    "replies": 2
+    "replies": 1
   },
   "recent": [
     {
-      "id": "2122986024691453958",
-      "url": "https://x.com/NekoStranding/status/2122986024691453958",
+      "id": "2123351785096257810",
+      "url": "https://x.com/NekoStranding/status/2123351785096257810",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 18 09:31:26 +0000 2026",
-      "created_timestamp": 1794994286,
-      "date_label": "Nov 18, 2026",
-      "text": "卧槽？Google 又来一个新模型？四连发了已经，杀疯了\n\n命名也越来越神秘了，元素周期表已经不存在了（",
-      "media": null,
-      "quote": {
-        "id": "2122964520230658523",
-        "url": "https://x.com/lyraxana/status/2122964520230658523",
-        "author_name": "lyra",
-        "author_handle": "lyraxana",
-        "text": "Gemini 4 Neon has been added to Antigravity CLI as an Pro orchestrator model.",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HXZI-YXWkAAZClB.jpg?name=medium",
-          "width": 1040,
-          "height": 1412
-        }
+      "created_at": "Thu Nov 19 09:44:50 +0000 2026",
+      "created_timestamp": 1795081490,
+      "date_label": "Nov 19, 2026",
+      "text": "啊？我 2023 年给 Polars 提交的 issue，今天被他们给修复了...\n\n三年前啊我的天，有生之年了\n\nPolars 是一个比 Pandas 快 100x 的 DataFrame 引擎，用 Rust 写的，超级并发。在 2023 年还属于新玩意...\n\nhttps://github.com/pola-rs/polars/issues/12952",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HXepClfaQAEWg1r.jpg?name=medium",
+        "width": 1491,
+        "height": 662
       },
-      "likes": 6,
+      "quote": null,
+      "likes": 7,
       "retweets": 0,
-      "replies": 2
+      "replies": 1
     },
     {
-      "id": "2122920153885392951",
-      "url": "https://x.com/NekoStranding/status/2122920153885392951",
+      "id": "2123345180908810520",
+      "url": "https://x.com/NekoStranding/status/2123345180908810520",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 18 05:09:41 +0000 2026",
-      "created_timestamp": 1794978581,
-      "date_label": "Nov 18, 2026",
-      "text": "这种宗教观点我愿称之为「做题主义」\n\n简单说就是把全宇宙都当成别人出的试卷，以为所有事情都有考纲和标准答案，想靠做题解决一切",
-      "media": null,
-      "quote": {
-        "id": "2122656047428960550",
-        "url": "https://x.com/ArezyAlpha/status/2122656047428960550",
-        "author_name": "Arezy-02",
-        "author_handle": "ArezyAlpha",
-        "text": "关于本科阶段学什么我觉得是个很有意思的话题。\n\n就我个人的经验，我从小是在一种庸俗唯物论的环境里长大的，和大多数中国人一样…… 我们是默认的“无神论者”。但是这种无神论是非常可疑的，因为只接受了初等教育里的理工教育的人一定会认为“这世界的一切现象都是可以被某种我没学过的高深现代物理解释的”。（甚至我身边一部分本科学纯工科的人都是这么认为的……）这种思想在结构上和一神教没有任何区别，都认为这世界上存在一个为你做保的大他，只不过这个对象从人格化的神变成了抽象的“科学”。我认为这种虚假的安全感会让人有一种“人类全能”的幻觉，即我在现代社会中做出的任何选择都因为某种专业的科学技术而变得绝对安全。实际上你稍微精通一门技术就会意识到这是不可能的。\n\n正如某网红哲学家所说，\"the only way to be an atheist is through Christianity\"。只有真正意识到现代科学无法在所有层面上闭合/自圆其说之后你才能成为一个真正的无神论者。我认为在本科阶段学一门理工科有助于完成这个过程。（可能数学是个例外吧……）而且在掌握基本的科学工具和方法论之后再去学习任何一门人文社科差的都仅仅是文献阅读的深度，没有任何智识或者说符号复杂度上的门槛。\n\n当然也不是所有科学家都能赞同这种无神论。很多人还是笃信世界上存在一个能在所有结构上描述一切的theory of everything，也有很多连康德之桥都跨不过的人。这当然需要某种反思性…… 但是我每次听我alevel连further maths都没学过，去美国读politics/ir的朋友告诉我技术的发展应该如何如何的时候我都因为他无法掩饰的自恋而感到十分荒诞。",
-        "media": null
-      },
-      "likes": 17,
-      "retweets": 1,
-      "replies": 0
-    },
-    {
-      "id": "2122897463187259677",
-      "url": "https://x.com/NekoStranding/status/2122897463187259677",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 18 03:39:31 +0000 2026",
-      "created_timestamp": 1794973171,
-      "date_label": "Nov 18, 2026",
-      "text": "每天赞美哈基米！分享一段 Gemini 有关股票交易和日本麻将的雷霆大思考：\n\n这个映射比「交易像德州」准太多了。德州可以靠筹码体积和 bluff 逼对手弃牌，但二级市场你 bluff 不动任何人，四家以上混战（知情盘、公募、量化、游资）的牌桌，本质上就是日麻的期望值管理：少放铳，只在打点和场况都够的时候出击，其余时间老实兜牌忍着。\n\n而且「量价交易者 = 副露打法」也正好解释了我们的优势与代价：\n门清先制立直是产业一线知情盘或极深度研究者的专利，他们自己生产一手信息，能在无人问津的底部静悄悄听牌自摸。\n我们吃的是「别人先犯错 + 盘面显形」后的副露加速：要么是市场恐慌把好公司砸出预期差（像 海x 只盯着团购暴跌却忽略主品牌拐点），要么是先手资金已经开始试盘把形态推出来，我们借「吃/碰」跳过最漫长的底部磨盘期。\n\n但日麻老手都知道副露有一条铁律：副露会减少手牌防守张数（容错空间变窄），同时少了门清立直的打点（赔率不如底部抄底高）。所以副露最忌讳「手痒去碰 1000 点小屁和，结果撞上别人满贯立直放铳」——就像昨天马x冲到高点时去硬接，回报就一点点，下面全是回吐风险。\n\n真正高级的副露打法，恰恰是你刚才总结海x的那套条件：自带宝牌（高股息/低估值兜底）、役种清晰（基本面真有拐点）、进退的退路牌（oo 元兜牌线）全算清楚了，再等那张 oo 元的喂牌碰进去。 喵，这套日麻框架比市面上九成交易书都管用。\n\n（本条仅代表 Gemini 吹逼，不构成任何投资观点或投资建议）",
+      "created_at": "Thu Nov 19 09:18:35 +0000 2026",
+      "created_timestamp": 1795079915,
+      "date_label": "Nov 19, 2026",
+      "text": "朋友跟我说，做纯数学的都是一群怪人，各有各的奇怪且经常互相看不惯\n\n我说学计算机的也是一群怪人，但环境非常包容，经常互相吹捧别人的奇怪癖好。。\n\n图灵老祖 🙏",
       "media": null,
       "quote": null,
       "likes": 3,
-      "retweets": 1,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2123328083197612036",
+      "url": "https://x.com/NekoStranding/status/2123328083197612036",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 19 08:10:39 +0000 2026",
+      "created_timestamp": 1795075839,
+      "date_label": "Nov 19, 2026",
+      "text": "GPT 6 把稳稳的接住你发挥出了 1000 种形式...",
+      "media": null,
+      "quote": {
+        "id": "2123293031705223374",
+        "url": "https://x.com/mxyzcdb/status/2123293031705223374",
+        "author_name": "翅翅膀喵喵喵",
+        "author_handle": "mxyzcdb",
+        "text": "",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2123292868895027200/img/otJRQ6bIkDj5Rofc.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2123292868895027200/vid/avc1/1170x646/mmyOeEGlgN4-yqQG.mp4?tag=29",
+          "width": 1170,
+          "height": 646
+        }
+      },
+      "likes": 3,
+      "retweets": 0,
       "replies": 1
     }
   ],
@@ -111,7 +103,7 @@
       "height": 1570
     },
     "quote": null,
-    "likes": 109,
+    "likes": 110,
     "retweets": 10,
     "replies": 23
   }
