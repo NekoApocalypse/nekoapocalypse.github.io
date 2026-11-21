@@ -1,27 +1,85 @@
 {
-  "updated_at": "2026-11-19T10:19:45Z",
+  "updated_at": "2026-11-21T03:12:32Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2123351785096257810",
-    "url": "https://x.com/NekoStranding/status/2123351785096257810",
+    "id": "2123939131621507352",
+    "url": "https://x.com/NekoStranding/status/2123939131621507352",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Thu Nov 19 09:44:50 +0000 2026",
-    "created_timestamp": 1795081490,
-    "date_label": "Nov 19, 2026",
-    "text": "啊？我 2023 年给 Polars 提交的 issue，今天被他们给修复了...\n\n三年前啊我的天，有生之年了\n\nPolars 是一个比 Pandas 快 100x 的 DataFrame 引擎，用 Rust 写的，超级并发。在 2023 年还属于新玩意...\n\nhttps://github.com/pola-rs/polars/issues/12952",
-    "media": {
-      "type": "photo",
-      "thumb_url": "https://pbs.twimg.com/media/HXepClfaQAEWg1r.jpg?name=medium",
-      "width": 1491,
-      "height": 662
+    "created_at": "Sat Nov 21 00:38:44 +0000 2026",
+    "created_timestamp": 1795221524,
+    "date_label": "Nov 21, 2026",
+    "text": "这什么诡异的人机循环播放，A\\ 全都是伪人吧。。",
+    "media": null,
+    "quote": {
+      "id": "2123424361147408623",
+      "url": "https://x.com/StockMKTNewz/status/2123424361147408623",
+      "author_name": "Evan",
+      "author_handle": "StockMKTNewz",
+      "text": "Anthropic $ANT just rang the opening bell for the stock market today at the NASDAQ exchange",
+      "media": {
+        "type": "video",
+        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2123424321250934784/img/4lzhZ7GX31rDvMAM.jpg?format=jpg&name=medium",
+        "video_url": "https://video.twimg.com/amplify_video/2123424321250934784/vid/avc1/1180x650/uaduyobHhYAajQWN.mp4?tag=29",
+        "width": 1180,
+        "height": 650
+      }
     },
-    "quote": null,
-    "likes": 7,
+    "likes": 2,
     "retweets": 0,
     "replies": 1
   },
   "recent": [
+    {
+      "id": "2123939131621507352",
+      "url": "https://x.com/NekoStranding/status/2123939131621507352",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 21 00:38:44 +0000 2026",
+      "created_timestamp": 1795221524,
+      "date_label": "Nov 21, 2026",
+      "text": "这什么诡异的人机循环播放，A\\ 全都是伪人吧。。",
+      "media": null,
+      "quote": {
+        "id": "2123424361147408623",
+        "url": "https://x.com/StockMKTNewz/status/2123424361147408623",
+        "author_name": "Evan",
+        "author_handle": "StockMKTNewz",
+        "text": "Anthropic $ANT just rang the opening bell for the stock market today at the NASDAQ exchange",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2123424321250934784/img/4lzhZ7GX31rDvMAM.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2123424321250934784/vid/avc1/1180x650/uaduyobHhYAajQWN.mp4?tag=29",
+          "width": 1180,
+          "height": 650
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2123937320072335518",
+      "url": "https://x.com/NekoStranding/status/2123937320072335518",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 21 00:31:32 +0000 2026",
+      "created_timestamp": 1795221092,
+      "date_label": "Nov 21, 2026",
+      "text": "好冷的笑话...\n\nCarbon + 4 Hydrogen = CH4 = 甲烷\n但冰毒学名甲基苯丙胺，在西方简称 Meth...\n\n所以用 Gemini Carbon 带 4 个 Hydrogen，约等于溜冰。。。",
+      "media": null,
+      "quote": {
+        "id": "2123542993554514119",
+        "url": "https://x.com/danielrock/status/2123542993554514119",
+        "author_name": "Daniel Rock",
+        "author_handle": "danielrock",
+        "text": "using carbon with 4 hydrogen subagents.\n\ni call it... methane.",
+        "media": null
+      },
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2123351785096257810",
       "url": "https://x.com/NekoStranding/status/2123351785096257810",
@@ -38,52 +96,9 @@
         "height": 662
       },
       "quote": null,
-      "likes": 7,
+      "likes": 21,
       "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2123345180908810520",
-      "url": "https://x.com/NekoStranding/status/2123345180908810520",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 19 09:18:35 +0000 2026",
-      "created_timestamp": 1795079915,
-      "date_label": "Nov 19, 2026",
-      "text": "朋友跟我说，做纯数学的都是一群怪人，各有各的奇怪且经常互相看不惯\n\n我说学计算机的也是一群怪人，但环境非常包容，经常互相吹捧别人的奇怪癖好。。\n\n图灵老祖 🙏",
-      "media": null,
-      "quote": null,
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
-    },
-    {
-      "id": "2123328083197612036",
-      "url": "https://x.com/NekoStranding/status/2123328083197612036",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 19 08:10:39 +0000 2026",
-      "created_timestamp": 1795075839,
-      "date_label": "Nov 19, 2026",
-      "text": "GPT 6 把稳稳的接住你发挥出了 1000 种形式...",
-      "media": null,
-      "quote": {
-        "id": "2123293031705223374",
-        "url": "https://x.com/mxyzcdb/status/2123293031705223374",
-        "author_name": "翅翅膀喵喵喵",
-        "author_handle": "mxyzcdb",
-        "text": "",
-        "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2123292868895027200/img/otJRQ6bIkDj5Rofc.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2123292868895027200/vid/avc1/1170x646/mmyOeEGlgN4-yqQG.mp4?tag=29",
-          "width": 1170,
-          "height": 646
-        }
-      },
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1
+      "replies": 3
     }
   ],
   "pinned": {
@@ -103,7 +118,7 @@
       "height": 1570
     },
     "quote": null,
-    "likes": 110,
+    "likes": 111,
     "retweets": 10,
     "replies": 23
   }
