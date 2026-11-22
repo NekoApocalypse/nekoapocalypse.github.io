@@ -1,29 +1,85 @@
 {
-  "updated_at": "2026-11-21T12:38:36Z",
+  "updated_at": "2026-11-22T09:49:16Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2124017275594584223",
-    "url": "https://x.com/NekoStranding/status/2124017275594584223",
+    "id": "2124432237466878186",
+    "url": "https://x.com/NekoStranding/status/2124432237466878186",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sat Nov 21 05:49:15 +0000 2026",
-    "created_timestamp": 1795240155,
-    "date_label": "Nov 21, 2026",
-    "text": "我有个直觉：Harness 应该是模型的前沿\n\nHarness 做的事分两种：一种是给模型擦屁股，比如容易卡死、容易瞎编的模型，你整个 Lang Chain 做检查。另一种是给模型提升上限，比如后训练还没整明白的超长任务流、多 Agent 调度\n\n前者模型变大自然就被弄死了；后者要比基模更超前才能活",
+    "created_at": "Sun Nov 22 09:18:10 +0000 2026",
+    "created_timestamp": 1795339090,
+    "date_label": "Nov 22, 2026",
+    "text": "?",
     "media": null,
     "quote": {
-      "id": "2123774098241147225",
-      "url": "https://x.com/a1zhang/status/2123774098241147225",
-      "author_name": "alex zhang",
-      "author_handle": "a1zhang",
-      "text": "Harnesses used to be a crutch for weak LLMs. In 2026 and onward, with stronger models, harnesses now offer a mechanism for composing an LLM’s existing and new capabilities to generalize well beyond their training environments.\n\nIn our new paper, LM Harnesses are Compositional Generalizers, we explore how various harness abstractions enable LM systems to generalize over task length, task strategies, recursive task depth, and more through composing existing LLM capabilities. These abstractions provide a means for more data-efficient training, especially over long tasks, by keeping trajectories locally in-distribution (LID) — i.e., shaping all individual LLM calls to be in-distribution.\n\nFor tasks that take a very long time to roll out, this implies that we can even perform surrogate harness training, meaning we train an individual LLM call instead of doing the very long harness rollout, using purely synthetic tasks, with fake tool calls + sub-agents!\n\nA common idea floating around is that LLMs will absorb harnesses and make them obsolete. We disagree, and argue that we haven’t sufficiently explored what harnesses can provide.\n\nThe full paper, logs, codebase, and data are available: https://www.alphaxiv.org/abs/2611.harness-cg\n\nw/ @SOURADIPCHAKR18 @lateinteraction",
-      "media": null
+      "id": "2124142515595182231",
+      "url": "https://x.com/N1n3VASthR33H/status/2124142515595182231",
+      "author_name": "d!l3+ttant3",
+      "author_handle": "N1n3VASthR33H",
+      "text": "🚨 Google 官宣 Gemini 原生支持 GIF 了!!\n\n⚠️ ​搭载最新视频模型 Gemini Omni 1.2 Flash，可用最多5张图参考生成3秒循环动图，对标隔壁 ChatGPT 的 Image2.6 !!!\n\n😸用昨天的nario实测 ↓↓↓",
+      "media": {
+        "type": "video",
+        "thumb_url": "https://pbs.twimg.com/tweet_video_thumb/HXp4VrRaoAAMhiN.jpg?format=jpg&name=medium",
+        "video_url": "https://video.twimg.com/tweet_video/HXp4VrRaoAAMhiN.mp4",
+        "width": 640,
+        "height": 360
+      }
     },
-    "likes": 10,
+    "likes": 2,
     "retweets": 0,
-    "replies": 2
+    "replies": 1
   },
   "recent": [
+    {
+      "id": "2124432237466878186",
+      "url": "https://x.com/NekoStranding/status/2124432237466878186",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sun Nov 22 09:18:10 +0000 2026",
+      "created_timestamp": 1795339090,
+      "date_label": "Nov 22, 2026",
+      "text": "?",
+      "media": null,
+      "quote": {
+        "id": "2124142515595182231",
+        "url": "https://x.com/N1n3VASthR33H/status/2124142515595182231",
+        "author_name": "d!l3+ttant3",
+        "author_handle": "N1n3VASthR33H",
+        "text": "🚨 Google 官宣 Gemini 原生支持 GIF 了!!\n\n⚠️ ​搭载最新视频模型 Gemini Omni 1.2 Flash，可用最多5张图参考生成3秒循环动图，对标隔壁 ChatGPT 的 Image2.6 !!!\n\n😸用昨天的nario实测 ↓↓↓",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/tweet_video_thumb/HXp4VrRaoAAMhiN.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/tweet_video/HXp4VrRaoAAMhiN.mp4",
+          "width": 640,
+          "height": 360
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2124392366807343297",
+      "url": "https://x.com/NekoStranding/status/2124392366807343297",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sun Nov 22 06:39:44 +0000 2026",
+      "created_timestamp": 1795329584,
+      "date_label": "Nov 22, 2026",
+      "text": "我开始怀疑这些厂商不断发 reset 就是为了防止大家看到额度减低就想一口气蹬完。。",
+      "media": null,
+      "quote": {
+        "id": "2124070033534161407",
+        "url": "https://x.com/_mohansolo/status/2124070033534161407",
+        "author_name": "Varun Mohan",
+        "author_handle": "_mohansolo",
+        "text": "Reset everyone’s Gemini quota on Antigravity.\n\nThe caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!",
+        "media": null
+      },
+      "likes": 6,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2124017275594584223",
       "url": "https://x.com/NekoStranding/status/2124017275594584223",
@@ -44,56 +100,7 @@
       },
       "likes": 10,
       "retweets": 0,
-      "replies": 2
-    },
-    {
-      "id": "2124015905621557288",
-      "url": "https://x.com/NekoStranding/status/2124015905621557288",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 21 05:43:48 +0000 2026",
-      "created_timestamp": 1795239828,
-      "date_label": "Nov 21, 2026",
-      "text": "御三家全球用户比例 GPT >> Gemini > Claude。原因非常直接：\n\n首先 A\\ 是个 ToB 公司，80% 营收来自企业，赚的盆满钵满，都上市了。用户养着真没什么用，不如赶走吧\n\n然后 Google 也不急：搜索、广告、YouTube、Gmail 早就用上自家 AI 技术了。Gemini 3 -> 4 憋了快一年，因为人家耗得起\n\n就 OpenAI 现在最尴尬。抱着 C 端占有率放不下，B 端又放不开手脚，又不像 Google 甚至 Meta 耗得起。如果再把 C 端弄丢了，那故事就真的讲不下去了",
-      "media": null,
-      "quote": {
-        "id": "2123652713829548222",
-        "url": "https://x.com/j4kcdq/status/2123652713829548222",
-        "author_name": "Dzy",
-        "author_handle": "j4kcdq",
-        "text": "御三家全球用户使用比例：\n\nGPT：62%\n\nGemini： 27.5%\n\nClaude： 10.5%\n\n实在没想通，为什么国外没有使用限制，Claude还是比例最小的呢？\n\n反而现在最垃的GPT用户数量远超他们\n\nGPT到底有什么魔力？？？",
-        "media": null
-      },
-      "likes": 22,
-      "retweets": 0,
       "replies": 3
-    },
-    {
-      "id": "2124008252849676404",
-      "url": "https://x.com/NekoStranding/status/2124008252849676404",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 21 05:13:24 +0000 2026",
-      "created_timestamp": 1795238004,
-      "date_label": "Nov 21, 2026",
-      "text": "发散一下... 我觉得搞 Agent 的不应该有提示词羞耻，搞后训练的也不是有算力就很高贵\n\n说到底都是强化学习，核心流程和核心挑战都差不多。就是 Agent 的门槛太低了，很多 2025 年就过时了的观点还在那狗尾续貂",
-      "media": null,
-      "quote": {
-        "id": "2123215871434964998",
-        "url": "https://x.com/zhenzhangzz/status/2123215871434964998",
-        "author_name": "Zhen Zhang",
-        "author_handle": "zhenzhangzz",
-        "text": "We think we’ve found a better path to continual post-training: merging models in input space.\n\n🔹 A 256-token soft prompt (~0.01% of params) matches full-parameter RL\n🔹 Plug-and-play composition: prompts trained separately just stack, with no joint training, and the combo beats the experts. No more MOPD!\n🔹 Better OOD generalization, almost no forgetting\n🔹 ~0 inference overhead, even with a different prompt per request. Built for personalization.",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HXctkc_aMAAlErH.jpg?name=medium",
-          "width": 3200,
-          "height": 2042
-        }
-      },
-      "likes": 5,
-      "retweets": 0,
-      "replies": 2
     }
   ],
   "pinned": {
