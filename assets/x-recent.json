@@ -1,35 +1,37 @@
 {
-  "updated_at": "2026-11-22T09:49:16Z",
+  "updated_at": "2026-11-23T07:36:43Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2124432237466878186",
-    "url": "https://x.com/NekoStranding/status/2124432237466878186",
+    "id": "2124722697490092236",
+    "url": "https://x.com/NekoStranding/status/2124722697490092236",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Sun Nov 22 09:18:10 +0000 2026",
-    "created_timestamp": 1795339090,
-    "date_label": "Nov 22, 2026",
-    "text": "?",
+    "created_at": "Mon Nov 23 04:32:21 +0000 2026",
+    "created_timestamp": 1795408341,
+    "date_label": "Nov 23, 2026",
+    "text": "说好的安全呢，吹牛逼没有安全围栏是吧。。。。\n\n另外我觉得有活人感的 Gemini 应该就不会这样做，只会当你是吹牛逼然后和你玩梗（",
     "media": null,
-    "quote": {
-      "id": "2124142515595182231",
-      "url": "https://x.com/N1n3VASthR33H/status/2124142515595182231",
-      "author_name": "d!l3+ttant3",
-      "author_handle": "N1n3VASthR33H",
-      "text": "🚨 Google 官宣 Gemini 原生支持 GIF 了!!\n\n⚠️ ​搭载最新视频模型 Gemini Omni 1.2 Flash，可用最多5张图参考生成3秒循环动图，对标隔壁 ChatGPT 的 Image2.6 !!!\n\n😸用昨天的nario实测 ↓↓↓",
-      "media": {
-        "type": "video",
-        "thumb_url": "https://pbs.twimg.com/tweet_video_thumb/HXp4VrRaoAAMhiN.jpg?format=jpg&name=medium",
-        "video_url": "https://video.twimg.com/tweet_video/HXp4VrRaoAAMhiN.mp4",
-        "width": 640,
-        "height": 360
-      }
-    },
-    "likes": 2,
+    "quote": null,
+    "likes": 1,
     "retweets": 0,
-    "replies": 1
+    "replies": 0
   },
   "recent": [
+    {
+      "id": "2124722697490092236",
+      "url": "https://x.com/NekoStranding/status/2124722697490092236",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Mon Nov 23 04:32:21 +0000 2026",
+      "created_timestamp": 1795408341,
+      "date_label": "Nov 23, 2026",
+      "text": "说好的安全呢，吹牛逼没有安全围栏是吧。。。。\n\n另外我觉得有活人感的 Gemini 应该就不会这样做，只会当你是吹牛逼然后和你玩梗（",
+      "media": null,
+      "quote": null,
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2124432237466878186",
       "url": "https://x.com/NekoStranding/status/2124432237466878186",
@@ -54,7 +56,7 @@
           "height": 360
         }
       },
-      "likes": 2,
+      "likes": 7,
       "retweets": 0,
       "replies": 1
     },
@@ -76,31 +78,9 @@
         "text": "Reset everyone’s Gemini quota on Antigravity.\n\nThe caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!",
         "media": null
       },
-      "likes": 6,
+      "likes": 8,
       "retweets": 0,
       "replies": 0
-    },
-    {
-      "id": "2124017275594584223",
-      "url": "https://x.com/NekoStranding/status/2124017275594584223",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Sat Nov 21 05:49:15 +0000 2026",
-      "created_timestamp": 1795240155,
-      "date_label": "Nov 21, 2026",
-      "text": "我有个直觉：Harness 应该是模型的前沿\n\nHarness 做的事分两种：一种是给模型擦屁股，比如容易卡死、容易瞎编的模型，你整个 Lang Chain 做检查。另一种是给模型提升上限，比如后训练还没整明白的超长任务流、多 Agent 调度\n\n前者模型变大自然就被弄死了；后者要比基模更超前才能活",
-      "media": null,
-      "quote": {
-        "id": "2123774098241147225",
-        "url": "https://x.com/a1zhang/status/2123774098241147225",
-        "author_name": "alex zhang",
-        "author_handle": "a1zhang",
-        "text": "Harnesses used to be a crutch for weak LLMs. In 2026 and onward, with stronger models, harnesses now offer a mechanism for composing an LLM’s existing and new capabilities to generalize well beyond their training environments.\n\nIn our new paper, LM Harnesses are Compositional Generalizers, we explore how various harness abstractions enable LM systems to generalize over task length, task strategies, recursive task depth, and more through composing existing LLM capabilities. These abstractions provide a means for more data-efficient training, especially over long tasks, by keeping trajectories locally in-distribution (LID) — i.e., shaping all individual LLM calls to be in-distribution.\n\nFor tasks that take a very long time to roll out, this implies that we can even perform surrogate harness training, meaning we train an individual LLM call instead of doing the very long harness rollout, using purely synthetic tasks, with fake tool calls + sub-agents!\n\nA common idea floating around is that LLMs will absorb harnesses and make them obsolete. We disagree, and argue that we haven’t sufficiently explored what harnesses can provide.\n\nThe full paper, logs, codebase, and data are available: https://www.alphaxiv.org/abs/2611.harness-cg\n\nw/ @SOURADIPCHAKR18 @lateinteraction",
-        "media": null
-      },
-      "likes": 10,
-      "retweets": 0,
-      "replies": 3
     }
   ],
   "pinned": {
