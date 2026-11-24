@@ -1,116 +1,109 @@
 {
-  "updated_at": "2026-11-23T20:13:19Z",
+  "updated_at": "2026-11-24T17:43:05Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2124881686517407825",
-    "url": "https://x.com/NekoStranding/status/2124881686517407825",
+    "id": "2125238275439051232",
+    "url": "https://x.com/NekoStranding/status/2125238275439051232",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Mon Nov 23 15:04:07 +0000 2026",
-    "created_timestamp": 1795446247,
-    "date_label": "Nov 23, 2026",
-    "text": "老黄今天也滑动变祖器了（",
+    "created_at": "Tue Nov 24 14:41:04 +0000 2026",
+    "created_timestamp": 1795531264,
+    "date_label": "Nov 24, 2026",
+    "text": "这就是正儿八经的 Agentic 时代一周年",
     "media": null,
     "quote": {
-      "id": "2124874242869313989",
-      "url": "https://x.com/zephyr_z9/status/2124874242869313989",
-      "author_name": "Zephyr",
-      "author_handle": "zephyr_z9",
-      "text": "Jensen to Dario today:",
-      "media": {
-        "type": "video",
-        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2124874104268632064/img/doC6UlSoPnyIjAxl.jpg?format=jpg&name=medium",
-        "video_url": "https://video.twimg.com/amplify_video/2124874104268632064/vid/avc1/1080x1080/KdXmH0SZ_8VGg8mc.mp4?tag=29",
-        "width": 1080,
-        "height": 1080
-      }
+      "id": "2125204907905163378",
+      "url": "https://x.com/theo/status/2125204907905163378",
+      "author_name": "Theo - t3.gg",
+      "author_handle": "theo",
+      "text": "Today marks exactly 1 year since Opus 4.5 dropped. I still think it’s the model that changed how we code forever.",
+      "media": null
     },
-    "likes": 2,
+    "likes": 0,
     "retweets": 0,
     "replies": 0
   },
   "recent": [
     {
-      "id": "2124881686517407825",
-      "url": "https://x.com/NekoStranding/status/2124881686517407825",
+      "id": "2125238275439051232",
+      "url": "https://x.com/NekoStranding/status/2125238275439051232",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 23 15:04:07 +0000 2026",
-      "created_timestamp": 1795446247,
-      "date_label": "Nov 23, 2026",
-      "text": "老黄今天也滑动变祖器了（",
+      "created_at": "Tue Nov 24 14:41:04 +0000 2026",
+      "created_timestamp": 1795531264,
+      "date_label": "Nov 24, 2026",
+      "text": "这就是正儿八经的 Agentic 时代一周年",
       "media": null,
       "quote": {
-        "id": "2124874242869313989",
-        "url": "https://x.com/zephyr_z9/status/2124874242869313989",
-        "author_name": "Zephyr",
-        "author_handle": "zephyr_z9",
-        "text": "Jensen to Dario today:",
-        "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2124874104268632064/img/doC6UlSoPnyIjAxl.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2124874104268632064/vid/avc1/1080x1080/KdXmH0SZ_8VGg8mc.mp4?tag=29",
-          "width": 1080,
-          "height": 1080
-        }
-      },
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2124874597535539463",
-      "url": "https://x.com/NekoStranding/status/2124874597535539463",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 23 14:35:56 +0000 2026",
-      "created_timestamp": 1795444556,
-      "date_label": "Nov 23, 2026",
-      "text": "这才几天。。",
-      "media": null,
-      "quote": {
-        "id": "2124864947167670336",
-        "url": "https://x.com/WatcherGuru/status/2124864947167670336",
-        "author_name": "Watcher Guru",
-        "author_handle": "WatcherGuru",
-        "text": "BREAKING: Nvidia $NVDA reinstates Jensen Huang as CEO and President.",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HX0JZzFbQAAnBKQ.jpg?name=medium",
-          "width": 1163,
-          "height": 1166
-        }
-      },
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2124872756974264376",
-      "url": "https://x.com/NekoStranding/status/2124872756974264376",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Mon Nov 23 14:28:38 +0000 2026",
-      "created_timestamp": 1795444118,
-      "date_label": "Nov 23, 2026",
-      "text": "这怎么连 personality bench 都出来了？给 AI 做人格测试？\n\n...也许应该给 AI 做个 MBTI🤔",
-      "media": null,
-      "quote": {
-        "id": "2124660506703323424",
-        "url": "https://x.com/AdamHoltererer/status/2124660506703323424",
-        "author_name": "Adam Holter",
-        "author_handle": "AdamHoltererer",
-        "text": "Gemini has never once been unsure of anything",
-        "media": {
-          "type": "photo",
-          "thumb_url": "https://pbs.twimg.com/media/HXxPeBnXYAAzpnQ.jpg?name=medium",
-          "width": 1080,
-          "height": 1350
-        }
+        "id": "2125204907905163378",
+        "url": "https://x.com/theo/status/2125204907905163378",
+        "author_name": "Theo - t3.gg",
+        "author_handle": "theo",
+        "text": "Today marks exactly 1 year since Opus 4.5 dropped. I still think it’s the model that changed how we code forever.",
+        "media": null
       },
       "likes": 0,
       "retweets": 0,
       "replies": 0
+    },
+    {
+      "id": "2125156607822897465",
+      "url": "https://x.com/NekoStranding/status/2125156607822897465",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Tue Nov 24 09:16:33 +0000 2026",
+      "created_timestamp": 1795511793,
+      "date_label": "Nov 24, 2026",
+      "text": "贴吧玩家的 xp 实在是太离谱了，没有 GitHub 账号是为了保护大家。。。",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HX4SqptbQAAWjeh.jpg?name=medium",
+        "width": 384,
+        "height": 216
+      },
+      "quote": {
+        "id": "2125150124846547122",
+        "url": "https://x.com/798145343h/status/2125150124846547122",
+        "author_name": "Gangban",
+        "author_handle": "798145343h",
+        "text": "很难想象我又刷到了什么😨\n\n大肥鱼怀孕插件……?\n\n哥们这是真有点逆天了……😃",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HX4MvnTaEAADrOZ.jpg?name=medium",
+          "width": 1199,
+          "height": 1312
+        }
+      },
+      "likes": 8,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2125120449344676238",
+      "url": "https://x.com/NekoStranding/status/2125120449344676238",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Tue Nov 24 06:52:52 +0000 2026",
+      "created_timestamp": 1795503172,
+      "date_label": "Nov 24, 2026",
+      "text": "草生，Gemini 一直在发实时重置，而不发充值卡的原因，竟然是因为充值卡功能还没开发出来。。\n\nGoogle 你们靠谱点啊，怎么感觉整个公司只有 Gemini 的执行力是正常的。。。",
+      "media": null,
+      "quote": {
+        "id": "2125017596470960460",
+        "url": "https://x.com/leo114119/status/2125017596470960460",
+        "author_name": "Leo · Building w/ AI",
+        "author_handle": "leo114119",
+        "text": "Antigravity 又重置了, 然后重置卡功能开发中…\n\n很有之前 codex 爆火的那味了, Gemini 现在真是香爆了 📷",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HX2UJlWa8AAVOwP.png?name=medium",
+          "width": 442,
+          "height": 378
+        }
+      },
+      "likes": 13,
+      "retweets": 0,
+      "replies": 2
     }
   ],
   "pinned": {
