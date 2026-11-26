@@ -1,29 +1,91 @@
 {
-  "updated_at": "2026-11-25T14:21:09Z",
+  "updated_at": "2026-11-26T10:52:57Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2125571110154711272",
-    "url": "https://x.com/NekoStranding/status/2125571110154711272",
+    "id": "2125793854234427609",
+    "url": "https://x.com/NekoStranding/status/2125793854234427609",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Wed Nov 25 12:43:38 +0000 2026",
-    "created_timestamp": 1795610618,
-    "date_label": "Nov 25, 2026",
-    "text": "这是什么 vibe 数学新玩法。。",
+    "created_at": "Thu Nov 26 03:28:44 +0000 2026",
+    "created_timestamp": 1795663724,
+    "date_label": "Nov 26, 2026",
+    "text": "这个非常有前途。现在很多 Agent 做不到情景化的找用户，核心原因还是看不见人类用户在干什么\n\n我们开发工作用 Agent 也发现了这个问题。有时候用户需要专注处理一件事，有时候在全力扫清小任务。这两种情况下的通知模式应该是不一样的",
     "media": null,
     "quote": {
-      "id": "2125235237471080565",
-      "url": "https://x.com/1337isnot1337/status/2125235237471080565",
-      "author_name": "Cinna Davis",
-      "author_handle": "1337isnot1337",
-      "text": "−11062769241414341239970603495681493737981374532130995\nand\n−11061733404916469626152098526056073213151599377977031\nCaiolo–Ferroni–Hoster conjecture is false",
-      "media": null
+      "id": "2125743508799852608",
+      "url": "https://x.com/cellinlab/status/2125743508799852608",
+      "author_name": "Cell 细胞",
+      "author_handle": "cellinlab",
+      "text": "简直就是天才！\n\n这作者构建了一个小型模型，能够通过光标移动、速度和交互来识别用户情绪🤯",
+      "media": {
+        "type": "video",
+        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125248008950321152/img/TRmnnJgZP8M18bqp.jpg?format=jpg&name=medium",
+        "video_url": "https://video.twimg.com/amplify_video/2125248008950321152/vid/avc1/1600x1080/XLucjKoOSh6yffbb.mp4?tag=29",
+        "width": 1600,
+        "height": 1080
+      }
     },
-    "likes": 0,
+    "likes": 6,
     "retweets": 0,
     "replies": 0
   },
   "recent": [
+    {
+      "id": "2125793854234427609",
+      "url": "https://x.com/NekoStranding/status/2125793854234427609",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 26 03:28:44 +0000 2026",
+      "created_timestamp": 1795663724,
+      "date_label": "Nov 26, 2026",
+      "text": "这个非常有前途。现在很多 Agent 做不到情景化的找用户，核心原因还是看不见人类用户在干什么\n\n我们开发工作用 Agent 也发现了这个问题。有时候用户需要专注处理一件事，有时候在全力扫清小任务。这两种情况下的通知模式应该是不一样的",
+      "media": null,
+      "quote": {
+        "id": "2125743508799852608",
+        "url": "https://x.com/cellinlab/status/2125743508799852608",
+        "author_name": "Cell 细胞",
+        "author_handle": "cellinlab",
+        "text": "简直就是天才！\n\n这作者构建了一个小型模型，能够通过光标移动、速度和交互来识别用户情绪🤯",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125248008950321152/img/TRmnnJgZP8M18bqp.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2125248008950321152/vid/avc1/1600x1080/XLucjKoOSh6yffbb.mp4?tag=29",
+          "width": 1600,
+          "height": 1080
+        }
+      },
+      "likes": 6,
+      "retweets": 0,
+      "replies": 0
+    },
+    {
+      "id": "2125793157929689265",
+      "url": "https://x.com/NekoStranding/status/2125793157929689265",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 26 03:25:58 +0000 2026",
+      "created_timestamp": 1795663558,
+      "date_label": "Nov 26, 2026",
+      "text": "每 20~30 分钟制造一个 8s 的高质量短视频\n\n这生产力相当的高啊。。感觉各行各业都在玩 Agent 驱动",
+      "media": null,
+      "quote": {
+        "id": "2125720329704337565",
+        "url": "https://x.com/AI_GIRL_DESIGN/status/2125720329704337565",
+        "author_name": "AI Girl's Photo Studio",
+        "author_handle": "AI_GIRL_DESIGN",
+        "text": "昔作ったTokyo BR QueenをSeedance2.5で作り直してます。最近Codexで自動生成する部分が多かったのですが、今回はシーンの構成や振付を全部自分で考えて、Promptに落とすところだけCodexにお願いしています。なので8秒の動画作るのに20～30分かかってます。\nPromptはコメントに付けます。\n\nCapCutデスクトップアプリで生成シテマス。\n#capcutcpp @capcutapp_jp",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125598517452480512/img/UC41EafCpokxSS4a.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2125598517452480512/vid/avc1/1920x1080/7f0WJR76M9YPPUC-.mp4?tag=29",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2125571110154711272",
       "url": "https://x.com/NekoStranding/status/2125571110154711272",
@@ -43,43 +105,6 @@
         "media": null
       },
       "likes": 0,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2125523724262646271",
-      "url": "https://x.com/NekoStranding/status/2125523724262646271",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 25 09:35:20 +0000 2026",
-      "created_timestamp": 1795599320,
-      "date_label": "Nov 25, 2026",
-      "text": "我们产品在和开发在讨论要不要把看盘产品做成放置类游戏，让大家行情差的时候有点事干。。。\n\n然后卖皮肤（划掉",
-      "media": null,
-      "quote": null,
-      "likes": 4,
-      "retweets": 0,
-      "replies": 3
-    },
-    {
-      "id": "2125421899094356147",
-      "url": "https://x.com/NekoStranding/status/2125421899094356147",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 25 02:50:43 +0000 2026",
-      "created_timestamp": 1795575043,
-      "date_label": "Nov 25, 2026",
-      "text": "大睡理论，大山理论，黄毛理论\n\n孔子和曾点领先了时代一千多年（",
-      "media": null,
-      "quote": {
-        "id": "2125131136397680703",
-        "url": "https://x.com/callmejie6/status/2125131136397680703",
-        "author_name": "Jie",
-        "author_handle": "callmejie6",
-        "text": "孔子问学生：“你们觉得怎么样才算实现高中的理想？”\n\n子路说：我想努力学习考上一个985的学校 然后考公考编考研 找一个稳定高薪的工作 争取三十五岁之前买房买车娶个从高中谈到婚纱的老婆\n\n孔子笑了笑\n\n冉有说：我想考一个普普通通的本科 考一个研究生 过一个四六级 找一个五六千一个月的工作 租个四十平的小房子自己住\n\n孔子又笑了笑\n\n公西华谦虚的说：我想考一个医学或者是教师 安安静静的研究学术给人治病或者教书育人\n\n孔子沉默了\n\n曾皙正在一旁刷视频 孔子问他 你呢\n\n曾皙放下手机说 大家都挺有志向的 只是我不想结婚 不想考公考编\n\n孔子说 这有什么 大家只不过是聊聊自己的志向\n\n曾皙说 我想每天平平淡淡的过 钱不用多 够我花就行 平常爬爬山跑跑步 晚上看看海边的日落喝点啤酒 第二天不需要早起 没有一定要完成的任务 如果说一定有什么愿望 那就是骑车回家的时候不要遇到交警。\n\n孔子长叹一声 吾与点也。",
-        "media": null
-      },
-      "likes": 5,
       "retweets": 0,
       "replies": 0
     }
