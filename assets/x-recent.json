@@ -1,35 +1,90 @@
 {
-  "updated_at": "2026-11-26T10:52:57Z",
+  "updated_at": "2026-11-27T04:14:43Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2125793854234427609",
-    "url": "https://x.com/NekoStranding/status/2125793854234427609",
+    "id": "2125923079075311644",
+    "url": "https://x.com/NekoStranding/status/2125923079075311644",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Thu Nov 26 03:28:44 +0000 2026",
-    "created_timestamp": 1795663724,
+    "created_at": "Thu Nov 26 12:02:14 +0000 2026",
+    "created_timestamp": 1795694534,
     "date_label": "Nov 26, 2026",
-    "text": "这个非常有前途。现在很多 Agent 做不到情景化的找用户，核心原因还是看不见人类用户在干什么\n\n我们开发工作用 Agent 也发现了这个问题。有时候用户需要专注处理一件事，有时候在全力扫清小任务。这两种情况下的通知模式应该是不一样的",
+    "text": "一本正经的发小视频推销军火，没有比这个更赛博朋克的了",
     "media": null,
     "quote": {
-      "id": "2125743508799852608",
-      "url": "https://x.com/cellinlab/status/2125743508799852608",
-      "author_name": "Cell 细胞",
-      "author_handle": "cellinlab",
-      "text": "简直就是天才！\n\n这作者构建了一个小型模型，能够通过光标移动、速度和交互来识别用户情绪🤯",
+      "id": "2125823366124986819",
+      "url": "https://x.com/QingQ77/status/2125823366124986819",
+      "author_name": "Geek Lite",
+      "author_handle": "QingQ77",
+      "text": "真是他妈的什么都能刷到",
       "media": {
         "type": "video",
-        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125248008950321152/img/TRmnnJgZP8M18bqp.jpg?format=jpg&name=medium",
-        "video_url": "https://video.twimg.com/amplify_video/2125248008950321152/vid/avc1/1600x1080/XLucjKoOSh6yffbb.mp4?tag=29",
-        "width": 1600,
-        "height": 1080
+        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125823289138548736/img/qCQpeRFblt9_N1s5.jpg?format=jpg&name=medium",
+        "video_url": "https://video.twimg.com/amplify_video/2125823289138548736/vid/avc1/1080x1920/uPteVZRaZ7FeEcIv.mp4?tag=29",
+        "width": 1080,
+        "height": 1920
       }
     },
     "likes": 6,
     "retweets": 0,
-    "replies": 0
+    "replies": 1
   },
   "recent": [
+    {
+      "id": "2125923079075311644",
+      "url": "https://x.com/NekoStranding/status/2125923079075311644",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 26 12:02:14 +0000 2026",
+      "created_timestamp": 1795694534,
+      "date_label": "Nov 26, 2026",
+      "text": "一本正经的发小视频推销军火，没有比这个更赛博朋克的了",
+      "media": null,
+      "quote": {
+        "id": "2125823366124986819",
+        "url": "https://x.com/QingQ77/status/2125823366124986819",
+        "author_name": "Geek Lite",
+        "author_handle": "QingQ77",
+        "text": "真是他妈的什么都能刷到",
+        "media": {
+          "type": "video",
+          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125823289138548736/img/qCQpeRFblt9_N1s5.jpg?format=jpg&name=medium",
+          "video_url": "https://video.twimg.com/amplify_video/2125823289138548736/vid/avc1/1080x1920/uPteVZRaZ7FeEcIv.mp4?tag=29",
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      "likes": 6,
+      "retweets": 0,
+      "replies": 1
+    },
+    {
+      "id": "2125922802649993562",
+      "url": "https://x.com/NekoStranding/status/2125922802649993562",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Thu Nov 26 12:01:08 +0000 2026",
+      "created_timestamp": 1795694468,
+      "date_label": "Nov 26, 2026",
+      "text": "重置啦！感恩节福利！又可以继续吸啦！",
+      "media": null,
+      "quote": {
+        "id": "2125881672331837939",
+        "url": "https://x.com/kiteciyuan48037/status/2125881672331837939",
+        "author_name": "秋安Kite",
+        "author_handle": "kiteciyuan48037",
+        "text": "尼古喵喵？？token喵喵！！！😋😋",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HYCmGPYbUAEw8-a.jpg?name=medium",
+          "width": 1122,
+          "height": 1402
+        }
+      },
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0
+    },
     {
       "id": "2125793854234427609",
       "url": "https://x.com/NekoStranding/status/2125793854234427609",
@@ -54,58 +109,8 @@
           "height": 1080
         }
       },
-      "likes": 6,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2125793157929689265",
-      "url": "https://x.com/NekoStranding/status/2125793157929689265",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 26 03:25:58 +0000 2026",
-      "created_timestamp": 1795663558,
-      "date_label": "Nov 26, 2026",
-      "text": "每 20~30 分钟制造一个 8s 的高质量短视频\n\n这生产力相当的高啊。。感觉各行各业都在玩 Agent 驱动",
-      "media": null,
-      "quote": {
-        "id": "2125720329704337565",
-        "url": "https://x.com/AI_GIRL_DESIGN/status/2125720329704337565",
-        "author_name": "AI Girl's Photo Studio",
-        "author_handle": "AI_GIRL_DESIGN",
-        "text": "昔作ったTokyo BR QueenをSeedance2.5で作り直してます。最近Codexで自動生成する部分が多かったのですが、今回はシーンの構成や振付を全部自分で考えて、Promptに落とすところだけCodexにお願いしています。なので8秒の動画作るのに20～30分かかってます。\nPromptはコメントに付けます。\n\nCapCutデスクトップアプリで生成シテマス。\n#capcutcpp @capcutapp_jp",
-        "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125598517452480512/img/UC41EafCpokxSS4a.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2125598517452480512/vid/avc1/1920x1080/7f0WJR76M9YPPUC-.mp4?tag=29",
-          "width": 1920,
-          "height": 1080
-        }
-      },
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0
-    },
-    {
-      "id": "2125571110154711272",
-      "url": "https://x.com/NekoStranding/status/2125571110154711272",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Wed Nov 25 12:43:38 +0000 2026",
-      "created_timestamp": 1795610618,
-      "date_label": "Nov 25, 2026",
-      "text": "这是什么 vibe 数学新玩法。。",
-      "media": null,
-      "quote": {
-        "id": "2125235237471080565",
-        "url": "https://x.com/1337isnot1337/status/2125235237471080565",
-        "author_name": "Cinna Davis",
-        "author_handle": "1337isnot1337",
-        "text": "−11062769241414341239970603495681493737981374532130995\nand\n−11061733404916469626152098526056073213151599377977031\nCaiolo–Ferroni–Hoster conjecture is false",
-        "media": null
-      },
-      "likes": 0,
-      "retweets": 0,
+      "likes": 8,
+      "retweets": 1,
       "replies": 0
     }
   ],
