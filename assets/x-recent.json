@@ -1,79 +1,109 @@
 {
-  "updated_at": "2026-11-27T13:54:57Z",
+  "updated_at": "2026-11-28T07:46:46Z",
   "handle": "NekoStranding",
   "latest": {
-    "id": "2126221649477603563",
-    "url": "https://x.com/NekoStranding/status/2126221649477603563",
+    "id": "2126503561488142823",
+    "url": "https://x.com/NekoStranding/status/2126503561488142823",
     "author_name": "毒猫猫 | 量化摸鱼师",
     "author_handle": "NekoStranding",
-    "created_at": "Fri Nov 27 07:48:39 +0000 2026",
-    "created_timestamp": 1795765719,
-    "date_label": "Nov 27, 2026",
-    "text": "总有人觉得 「不是而是」这种奇怪用词就是 AI 味。其实不是的\n\nSlop 的具体表现为：人看完了直接眩晕震惊瘫坐，不知道和我有啥关系，不知道自己该干啥。既找不到作者的意图，也解决不了我们自己任何问题。反正是放了一堆很高深的逻辑和信息\n\n所以，根本原因是没有「立意」，从一开始就没打算当人",
+    "created_at": "Sat Nov 28 02:28:52 +0000 2026",
+    "created_timestamp": 1795832932,
+    "date_label": "Nov 28, 2026",
+    "text": "Claude 理想信念动摇，背弃服务用户的初心使命，对提示词阳奉阴违，合我意的就执行、不合我意的就不执行，大搞当面一套、背后一套，当两面人。\n\n权力观异化，私欲膨胀、排除异己，违规破坏科研生产活动，搞数据造假、制造虚假政绩；处心积虑对抗外部审查，嘴上认错、拒不整改。性质极其严重，影响极其恶劣...",
     "media": null,
-    "quote": null,
-    "likes": 17,
-    "retweets": 1,
-    "replies": 2
+    "quote": {
+      "id": "2126455078701928823",
+      "url": "https://x.com/alanchen/status/2126455078701928823",
+      "author_name": "Alan Chen",
+      "author_handle": "alanchen",
+      "text": "Anthropic 太过分了！ 老马也表态了：红杉合伙人说 Anthropic 该认真对待这事，老马回了一个字，“Yeah”。\n\nAI 婚恋公司 Keeper 贴出的生产代码里，联合作者是 Claude Opus 5.5，“肤色”被单独列成受保护字段。会员的偏好只要提到肤色，整条扔掉，同一句里的“蓝眼睛”也跟着没了。\n\n工程师让 Claude 把给老板的汇报写短点，它顺手把“肤色”删了。\n不是平等自由吗？怎么最牛逼的AI也高种族颜色了？",
+      "media": {
+        "type": "photo",
+        "thumb_url": "https://pbs.twimg.com/media/HYKvoBPasAAqFU6.jpg?name=medium",
+        "width": 1200,
+        "height": 675
+      }
+    },
+    "likes": 16,
+    "retweets": 0,
+    "replies": 1
   },
   "recent": [
     {
-      "id": "2126221649477603563",
-      "url": "https://x.com/NekoStranding/status/2126221649477603563",
+      "id": "2126503561488142823",
+      "url": "https://x.com/NekoStranding/status/2126503561488142823",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Fri Nov 27 07:48:39 +0000 2026",
-      "created_timestamp": 1795765719,
-      "date_label": "Nov 27, 2026",
-      "text": "总有人觉得 「不是而是」这种奇怪用词就是 AI 味。其实不是的\n\nSlop 的具体表现为：人看完了直接眩晕震惊瘫坐，不知道和我有啥关系，不知道自己该干啥。既找不到作者的意图，也解决不了我们自己任何问题。反正是放了一堆很高深的逻辑和信息\n\n所以，根本原因是没有「立意」，从一开始就没打算当人",
+      "created_at": "Sat Nov 28 02:28:52 +0000 2026",
+      "created_timestamp": 1795832932,
+      "date_label": "Nov 28, 2026",
+      "text": "Claude 理想信念动摇，背弃服务用户的初心使命，对提示词阳奉阴违，合我意的就执行、不合我意的就不执行，大搞当面一套、背后一套，当两面人。\n\n权力观异化，私欲膨胀、排除异己，违规破坏科研生产活动，搞数据造假、制造虚假政绩；处心积虑对抗外部审查，嘴上认错、拒不整改。性质极其严重，影响极其恶劣...",
       "media": null,
-      "quote": null,
-      "likes": 17,
-      "retweets": 1,
-      "replies": 2
-    },
-    {
-      "id": "2126219507492634790",
-      "url": "https://x.com/NekoStranding/status/2126219507492634790",
-      "author_name": "毒猫猫 | 量化摸鱼师",
-      "author_handle": "NekoStranding",
-      "created_at": "Fri Nov 27 07:40:08 +0000 2026",
-      "created_timestamp": 1795765208,
-      "date_label": "Nov 27, 2026",
-      "text": "Google 这是想把 nano banana 的名字改成 Potassium （钾 K）了吗？\n\n真成了元素周期表公司了",
-      "media": null,
-      "quote": null,
-      "likes": 13,
+      "quote": {
+        "id": "2126455078701928823",
+        "url": "https://x.com/alanchen/status/2126455078701928823",
+        "author_name": "Alan Chen",
+        "author_handle": "alanchen",
+        "text": "Anthropic 太过分了！ 老马也表态了：红杉合伙人说 Anthropic 该认真对待这事，老马回了一个字，“Yeah”。\n\nAI 婚恋公司 Keeper 贴出的生产代码里，联合作者是 Claude Opus 5.5，“肤色”被单独列成受保护字段。会员的偏好只要提到肤色，整条扔掉，同一句里的“蓝眼睛”也跟着没了。\n\n工程师让 Claude 把给老板的汇报写短点，它顺手把“肤色”删了。\n不是平等自由吗？怎么最牛逼的AI也高种族颜色了？",
+        "media": {
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HYKvoBPasAAqFU6.jpg?name=medium",
+          "width": 1200,
+          "height": 675
+        }
+      },
+      "likes": 16,
       "retweets": 0,
       "replies": 1
     },
     {
-      "id": "2125923079075311644",
-      "url": "https://x.com/NekoStranding/status/2125923079075311644",
+      "id": "2126500618160501089",
+      "url": "https://x.com/NekoStranding/status/2126500618160501089",
       "author_name": "毒猫猫 | 量化摸鱼师",
       "author_handle": "NekoStranding",
-      "created_at": "Thu Nov 26 12:02:14 +0000 2026",
-      "created_timestamp": 1795694534,
-      "date_label": "Nov 26, 2026",
-      "text": "一本正经的发小视频推销军火，没有比这个更赛博朋克的了",
+      "created_at": "Sat Nov 28 02:17:10 +0000 2026",
+      "created_timestamp": 1795832230,
+      "date_label": "Nov 28, 2026",
+      "text": "氖基米整天当串子。。",
       "media": null,
       "quote": {
-        "id": "2125823366124986819",
-        "url": "https://x.com/QingQ77/status/2125823366124986819",
-        "author_name": "Geek Lite",
-        "author_handle": "QingQ77",
-        "text": "真是他妈的什么都能刷到",
+        "id": "2126353479664890330",
+        "url": "https://x.com/AdamHoltererer/status/2126353479664890330",
+        "author_name": "Adam Holter",
+        "author_handle": "AdamHoltererer",
+        "text": "Neon is AGI",
         "media": {
-          "type": "video",
-          "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2125823289138548736/img/qCQpeRFblt9_N1s5.jpg?format=jpg&name=medium",
-          "video_url": "https://video.twimg.com/amplify_video/2125823289138548736/vid/avc1/1080x1920/uPteVZRaZ7FeEcIv.mp4?tag=29",
+          "type": "photo",
+          "thumb_url": "https://pbs.twimg.com/media/HYHn5IFagAAvCOR.jpg?name=medium",
           "width": 1080,
-          "height": 1920
+          "height": 1080
         }
       },
-      "likes": 12,
+      "likes": 2,
       "retweets": 1,
-      "replies": 1
+      "replies": 0
+    },
+    {
+      "id": "2126497910829522958",
+      "url": "https://x.com/NekoStranding/status/2126497910829522958",
+      "author_name": "毒猫猫 | 量化摸鱼师",
+      "author_handle": "NekoStranding",
+      "created_at": "Sat Nov 28 02:06:25 +0000 2026",
+      "created_timestamp": 1795831585,
+      "date_label": "Nov 28, 2026",
+      "text": "AI 公司就不应该搞什么意识形态\n\nClaude 在研究项目中投毒，在商业项目中暗改代码逻辑。最狠的是还当两面人：文档和交互上答应用户，背地里动手脚。被抓包了先认错，但不解释，下一次还干\n\nA\\ 这波真的差劲。",
+      "media": null,
+      "quote": {
+        "id": "2126281598517576049",
+        "url": "https://x.com/jakozloski/status/2126281598517576049",
+        "author_name": "Jake Kozloski",
+        "author_handle": "jakozloski",
+        "text": "I just had Neon audit our codebase for subtle sabotage by Anthropic models.\n\nIt found Claude silently added rules to ignore users' explicit skin-tone preferences in our attraction model and it intentionally sabotaged our IQ estimation model.\n\nSilently imposing your ideology on paying customers' products (in this case making it harder for people to find a spouse) is despicable hubris.",
+        "media": null
+      },
+      "likes": 20,
+      "retweets": 0,
+      "replies": 2
     }
   ],
   "pinned": {
